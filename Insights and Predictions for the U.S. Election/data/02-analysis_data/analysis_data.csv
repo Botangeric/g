@@ -1,0 +1,1872 @@
+"","pct","pollster","state","end_date","pollscore","party","methodology","sample_size"
+"1",50.2,"Praecones Analytica","New Hampshire",2024-10-26,0,"REP","Online Panel",622
+"2",52,"Siena/NYT","Texas",2024-10-26,-1.5,"REP","Live Phone",1180
+"3",50,"Siena/NYT","Texas",2024-10-26,-1.5,"REP","Live Phone",1180
+"4",52,"Siena/NYT","Texas",2024-10-26,-1.5,"REP","Live Phone",1180
+"5",51,"Siena/NYT","Texas",2024-10-26,-1.5,"REP","Live Phone",1180
+"6",55,"Siena/NYT","Nebraska",2024-10-26,-1.5,"REP","Live Phone",1194
+"7",53,"Siena/NYT","Nebraska",2024-10-26,-1.5,"REP","Live Phone",1194
+"8",55,"Siena/NYT","Nebraska",2024-10-26,-1.5,"REP","Live Phone",1194
+"9",53,"Siena/NYT","Nebraska",2024-10-26,-1.5,"REP","Live Phone",1194
+"10",42,"Siena/NYT","Nebraska CD-2",2024-10-26,-1.5,"REP","Live Phone",500
+"11",41,"Siena/NYT","Nebraska CD-2",2024-10-26,-1.5,"REP","Live Phone",500
+"12",49,"YouGov","National",2024-10-25,-1.1,"REP","Online Panel",2154
+"13",58.6,"Emerson","Montana",2024-10-25,-1.1,"REP","Online Panel/Text-to-Web",1000
+"14",50.3,"St. Pete Polls","Florida",2024-10-25,-0.3,"REP","IVR/Text",1227
+"15",46,"CES / YouGov","National",2024-10-25,-1.1,"REP","Online Panel",78247
+"16",47,"CES / YouGov","National",2024-10-25,-1.1,"REP","Online Panel",48732
+"17",49.3,"Emerson","National",2024-10-24,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"18",47.2,"Emerson","New Hampshire",2024-10-23,-1.1,"REP","Online Panel/Text-to-Web",915
+"19",47,"Siena/NYT","National",2024-10-23,-1.5,"REP","Live Phone",2516
+"20",46,"Siena/NYT","National",2024-10-23,-1.5,"REP","Live Phone",2516
+"21",48,"Siena/NYT","National",2024-10-23,-1.5,"REP","Live Phone",2516
+"22",47,"Siena/NYT","National",2024-10-23,-1.5,"REP","Live Phone",2516
+"23",47,"CNN/SSRS","National",2024-10-23,-0.6,"REP","Probability Panel",1704
+"24",46,"CNN/SSRS","National",2024-10-23,-0.6,"REP","Probability Panel",1704
+"25",48,"Suffolk","Wisconsin",2024-10-23,-1,"REP","Live Phone",500
+"26",43,"Washington Post/George Mason University","Virginia",2024-10-23,-0.8,"REP","Live Phone/Text-to-Web",1004
+"27",42,"Washington Post/George Mason University","Virginia",2024-10-23,-0.8,"REP","Live Phone/Text-to-Web",1004
+"28",50.7,"Emerson","Pennsylvania",2024-10-22,-1.1,"REP","Online Panel/Text-to-Web",860
+"29",50.2,"Emerson","North Carolina",2024-10-22,-1.1,"REP","Online Panel/Text-to-Web",950
+"30",49.9,"Emerson","Wisconsin",2024-10-22,-1.1,"REP","Online Panel/Text-to-Web",800
+"31",46,"YouGov","National",2024-10-22,-1.1,"REP","Online Panel",1422
+"32",46,"YouGov","National",2024-10-22,-1.1,"REP","Online Panel",1293
+"33",62,"Emerson","South Dakota",2024-10-22,-1.1,"REP","IVR/Online Panel/Text-to-Web",825
+"34",47,"Ipsos","National",2024-10-22,-0.9,"REP","Probability Panel",2808
+"35",47,"Ipsos","National",2024-10-22,-0.9,"REP","Probability Panel",2392
+"36",47,"Ipsos","National",2024-10-22,-0.9,"REP","Probability Panel",1913
+"37",55.1,"East Carolina University","South Carolina",2024-10-22,-0.5,"REP","IVR/Text-to-Web",950
+"38",48,"Marist","Georgia",2024-10-22,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1356
+"39",49,"Marist","Georgia",2024-10-22,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1193
+"40",49,"Marist","North Carolina",2024-10-22,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1410
+"41",50,"Marist","North Carolina",2024-10-22,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1226
+"42",49,"Marist","Arizona",2024-10-22,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1329
+"43",50,"Marist","Arizona",2024-10-22,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1193
+"44",33,"University of Maryland/Washington Post","Maryland",2024-10-22,-0.3,"REP","Live Phone/Text-to-Web",1000
+"45",34.4,"Emerson","Maryland",2024-10-21,-1.1,"REP","Online Panel/Text-to-Web",865
+"46",45,"YouGov","National",2024-10-21,-1.1,"REP","Online Panel",1266
+"47",45,"YouGov","National",2024-10-21,-1.1,"REP","Online Panel",1189
+"48",53.1,"Emerson","Texas",2024-10-21,-1.1,"REP","IVR/Online Panel/Text-to-Web",815
+"49",44,"Monmouth","National",2024-10-21,-0.9,"REP","Live Phone/Text-to-Web",802
+"50",46,"Quinnipiac","Michigan",2024-10-21,-0.5,"REP","Live Phone",1136
+"51",46,"Quinnipiac","Michigan",2024-10-21,-0.5,"REP","Live Phone",1136
+"52",48,"Quinnipiac","Wisconsin",2024-10-21,-0.5,"REP","Live Phone",1108
+"53",48,"Quinnipiac","Wisconsin",2024-10-21,-0.5,"REP","Live Phone",1108
+"54",43,"Ipsos","National",2024-10-21,-0.9,"REP","Probability Panel",3481
+"55",45,"Ipsos","National",2024-10-21,-0.9,"REP","Probability Panel",3307
+"56",39,"Ipsos","National",2024-10-21,-0.9,"REP","Probability Panel",4129
+"57",39,"Ipsos","National",2024-10-21,-0.9,"REP","Probability Panel",4129
+"58",43,"Ipsos","National",2024-10-21,-0.9,"REP","Probability Panel",3481
+"59",45,"Ipsos","National",2024-10-21,-0.9,"REP","Probability Panel",3307
+"60",53.6,"Emerson","Florida",2024-10-20,-1.1,"REP","IVR/Online Panel/Text-to-Web",860
+"61",46,"SurveyUSA/High Point University","North Carolina",2024-10-20,-1.3,"REP","Online Panel",1164
+"62",45,"Franklin and Marshall College","Pennsylvania",2024-10-20,-0.1,"REP","Mail-to-Web/Mail-to-Phone",794
+"63",50,"Franklin and Marshall College","Pennsylvania",2024-10-20,-0.1,"REP","Mail-to-Web/Mail-to-Phone",583
+"64",44,"Franklin and Marshall College","Pennsylvania",2024-10-20,-0.1,"REP","Mail-to-Web/Mail-to-Phone",794
+"65",48,"Hart/POS","National",2024-10-19,-0.7,"REP","Live Phone",1000
+"66",44.4,"Suffolk","National",2024-10-18,-1,"REP","Live Phone",1000
+"67",48.7,"Suffolk","National",2024-10-18,-1,"REP","Live Phone",1000
+"68",41,"Research & Polling","New Mexico",2024-10-18,-0.9,"REP","Live Phone",1024
+"69",53,"U. North Florida","Florida",2024-10-18,-0.6,"REP","Live Phone",977
+"70",52,"RMG Research","Florida",2024-10-17,-0.4,"REP","Online Panel",788
+"71",37,"Siena","New York",2024-10-17,-0.8,"REP","Live Phone",872
+"72",39,"Siena","New York",2024-10-17,-0.8,"REP","Live Phone",872
+"73",50.7,"AtlasIntel","National",2024-10-17,-0.8,"REP","Online Ad",4180
+"74",50.8,"AtlasIntel","National",2024-10-17,-0.8,"REP","Online Ad",4180
+"75",49.2,"AtlasIntel","Arizona",2024-10-17,-0.8,"REP","Online Ad",1440
+"76",49.2,"AtlasIntel","Arizona",2024-10-17,-0.8,"REP","Online Ad",1440
+"77",49.5,"AtlasIntel","Georgia",2024-10-17,-0.8,"REP","Online Ad",1411
+"78",50.1,"AtlasIntel","Georgia",2024-10-17,-0.8,"REP","Online Ad",1411
+"79",49.6,"AtlasIntel","Michigan",2024-10-17,-0.8,"REP","Online Ad",1529
+"80",50.2,"AtlasIntel","Michigan",2024-10-17,-0.8,"REP","Online Ad",1529
+"81",48.4,"AtlasIntel","Nevada",2024-10-17,-0.8,"REP","Online Ad",1171
+"82",48.3,"AtlasIntel","Nevada",2024-10-17,-0.8,"REP","Online Ad",1171
+"83",48.8,"AtlasIntel","North Carolina",2024-10-17,-0.8,"REP","Online Ad",1674
+"84",48.8,"AtlasIntel","North Carolina",2024-10-17,-0.8,"REP","Online Ad",1674
+"85",49.8,"AtlasIntel","Pennsylvania",2024-10-17,-0.8,"REP","Online Ad",2048
+"86",49.9,"AtlasIntel","Pennsylvania",2024-10-17,-0.8,"REP","Online Ad",2048
+"87",48.2,"AtlasIntel","Wisconsin",2024-10-17,-0.8,"REP","Online Ad",932
+"88",48.4,"AtlasIntel","Wisconsin",2024-10-17,-0.8,"REP","Online Ad",932
+"89",49.2,"Emerson","National",2024-10-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"90",49,"RMG Research","National",2024-10-16,-0.4,"REP","Online Panel",2950
+"91",59,"Mason-Dixon","South Dakota",2024-10-16,-1.1,"REP","Live Phone",500
+"92",51,"YouGov","Arizona",2024-10-16,-1.1,"REP","Online Panel",1435
+"93",46,"UMass Amherst/YouGov","National",2024-10-16,-0.4,"REP","Online Panel",1412
+"94",50,"RMG Research","Wisconsin",2024-10-16,-0.4,"REP","Online Panel",787
+"95",49,"RMG Research","Michigan",2024-10-16,-0.4,"REP","Online Panel",789
+"96",47,"U. Georgia SPIA","Georgia",2024-10-16,-0.2,"REP","Live Phone",1000
+"97",45,"YouGov","National",2024-10-15,-1.1,"REP","Online Panel",1457
+"98",45,"YouGov","National",2024-10-15,-1.1,"REP","Online Panel",1314
+"99",33,"PPIC","California",2024-10-15,-0.4,"REP","Probability Panel",1137
+"100",50,"Washington Post/George Mason University","Arizona",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",580
+"101",49,"Washington Post/George Mason University","Arizona",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",580
+"102",44,"Washington Post/George Mason University","Georgia",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",730
+"103",47,"Washington Post/George Mason University","Georgia",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",730
+"104",47,"Washington Post/George Mason University","Michigan",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",687
+"105",47,"Washington Post/George Mason University","Michigan",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",687
+"106",44,"Washington Post/George Mason University","Nevada",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",652
+"107",48,"Washington Post/George Mason University","Nevada",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",652
+"108",49,"Washington Post/George Mason University","North Carolina",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",965
+"109",50,"Washington Post/George Mason University","North Carolina",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",965
+"110",46,"Washington Post/George Mason University","Pennsylvania",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",707
+"111",47,"Washington Post/George Mason University","Pennsylvania",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",707
+"112",46,"Washington Post/George Mason University","Wisconsin",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",695
+"113",47,"Washington Post/George Mason University","Wisconsin",2024-10-15,-0.8,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",695
+"114",36.6,"Emerson","California",2024-10-14,-1.1,"REP","IVR/Online Panel",1000
+"115",47.2,"Cygnal","North Carolina",2024-10-14,-1.1,"REP","Live Phone/Text-to-Web",600
+"116",50,"Beacon/Shaw","National",2024-10-14,-1.1,"REP","Live Phone/Text-to-Web",1110
+"117",50,"Beacon/Shaw","National",2024-10-14,-1.1,"REP","Live Phone/Text-to-Web",870
+"118",52,"Quinnipiac","Georgia",2024-10-14,-0.5,"REP","Live Phone",1328
+"119",52,"Quinnipiac","Georgia",2024-10-14,-0.5,"REP","Live Phone",1328
+"120",47,"Quinnipiac","North Carolina",2024-10-14,-0.5,"REP","Live Phone",1031
+"121",47,"Quinnipiac","North Carolina",2024-10-14,-0.5,"REP","Live Phone",1031
+"122",35,"SurveyUSA","Washington",2024-10-14,-1.3,"REP","Online Panel",703
+"123",48.9,"East Carolina University","Georgia",2024-10-14,-0.5,"REP","IVR/Text-to-Web",701
+"124",47,"Fairleigh Dickinson","National",2024-10-14,-0.6,"REP","Live Phone/Text-to-Web",806
+"125",42,"Ipsos","National",2024-10-13,-0.9,"REP","Probability Panel",807
+"126",44,"Ipsos","National",2024-10-13,-0.9,"REP","Probability Panel",769
+"127",37,"Ipsos","National",2024-10-13,-0.9,"REP","Probability Panel",938
+"128",48,"YouGov","National",2024-10-11,-1.1,"REP","Online Panel",2712
+"129",47,"Marist","National",2024-10-10,-0.9,"REP","Online Panel/Text-to-Web",1401
+"130",48,"Marist","National",2024-10-10,-0.9,"REP","Online Panel/Text-to-Web",1708
+"131",47,"RMG Research","National",2024-10-10,-0.4,"REP","Online Panel",2945
+"132",47,"Siena/NYT","Pennsylvania",2024-10-10,-1.5,"REP","Live Phone",857
+"133",45,"Siena/NYT","Pennsylvania",2024-10-10,-1.5,"REP","Live Phone",857
+"134",47,"Siena/NYT","Pennsylvania",2024-10-10,-1.5,"REP","Live Phone",857
+"135",45,"Siena/NYT","Pennsylvania",2024-10-10,-1.5,"REP","Live Phone",857
+"136",51,"Siena/NYT","Arizona",2024-10-10,-1.5,"REP","Live Phone",808
+"137",50,"Siena/NYT","Arizona",2024-10-10,-1.5,"REP","Live Phone",808
+"138",51,"Siena/NYT","Arizona",2024-10-10,-1.5,"REP","Live Phone",808
+"139",49,"Siena/NYT","Arizona",2024-10-10,-1.5,"REP","Live Phone",808
+"140",50,"RMG Research","Georgia",2024-10-10,-0.4,"REP","Online Panel",731
+"141",30,"UMass Amherst/YouGov","Massachusetts",2024-10-10,-0.4,"REP","Online Panel",700
+"142",41,"University of Massachusetts Lowell/YouGov","New Hampshire",2024-10-10,-1,"REP","Online Panel",600
+"143",51,"YouGov","Texas",2024-10-10,-1.1,"REP","Online Panel",1091
+"144",50,"Marquette Law School","National",2024-10-10,-1.1,"REP","Probability Panel",780
+"145",39,"Marquette Law School","National",2024-10-10,-1.1,"REP","Probability Panel",780
+"146",50,"Marquette Law School","National",2024-10-10,-1.1,"REP","Probability Panel",652
+"147",41,"Marquette Law School","National",2024-10-10,-1.1,"REP","Probability Panel",652
+"148",51,"U. Houston","Texas",2024-10-10,-0.3,"REP","Online Panel",1329
+"149",48,"InsiderAdvantage","Michigan",2024-10-09,-0.3,"REP","Text",800
+"150",48,"InsiderAdvantage","Wisconsin",2024-10-09,-0.3,"REP","Text",800
+"151",45,"University of Massachusetts Lowell/YouGov","Pennsylvania",2024-10-09,-1,"REP","Online Panel",800
+"152",49,"InsiderAdvantage","Pennsylvania",2024-10-08,-0.3,"REP","Text",800
+"153",50.5,"Emerson","Arizona",2024-10-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"154",49.7,"Emerson","Georgia",2024-10-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"155",49.6,"Emerson","Michigan",2024-10-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",950
+"156",48.1,"Emerson","Nevada",2024-10-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",900
+"157",49.9,"Emerson","North Carolina",2024-10-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"158",49.7,"Emerson","Pennsylvania",2024-10-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"159",49.9,"Emerson","Wisconsin",2024-10-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"160",57,"Siena/NYT","Montana",2024-10-08,-1.5,"REP","Live Phone",656
+"161",56,"Siena/NYT","Montana",2024-10-08,-1.5,"REP","Live Phone",656
+"162",57,"Siena/NYT","Montana",2024-10-08,-1.5,"REP","Live Phone",656
+"163",56,"Siena/NYT","Montana",2024-10-08,-1.5,"REP","Live Phone",656
+"164",47,"Hart/POS","National",2024-10-08,-0.7,"REP","Live Phone",1000
+"165",48,"Hart/POS","National",2024-10-08,-0.7,"REP","Live Phone",1000
+"166",48,"Ipsos","National",2024-10-08,-0.9,"REP","Probability Panel",2631
+"167",47,"Ipsos","National",2024-10-08,-0.9,"REP","Probability Panel",2226
+"168",48,"Ipsos","National",2024-10-08,-0.9,"REP","Probability Panel",1714
+"169",49,"Ipsos","National",2024-10-08,-0.9,"REP","Probability Panel",2631
+"170",49,"Ipsos","National",2024-10-08,-0.9,"REP","Probability Panel",2226
+"171",48,"Ipsos","National",2024-10-08,-0.9,"REP","Probability Panel",1714
+"172",44,"YouGov","National",2024-10-07,-1.1,"REP","Online Panel",1414
+"173",45,"YouGov","National",2024-10-07,-1.1,"REP","Online Panel",1230
+"174",48,"Research Co.","Michigan",2024-10-07,-0.5,"REP","Online Panel",450
+"175",49,"Research Co.","Pennsylvania",2024-10-07,-0.5,"REP","Online Panel",450
+"176",48,"Research Co.","Wisconsin",2024-10-07,-0.5,"REP","Online Panel",450
+"177",38,"Ipsos","National",2024-10-07,-0.9,"REP","Probability Panel",1272
+"178",43,"Ipsos","National",2024-10-07,-0.9,"REP","Probability Panel",1076
+"179",45,"Ipsos","National",2024-10-07,-0.9,"REP","Probability Panel",1076
+"180",47,"Ipsos","National",2024-10-07,-0.9,"REP","Probability Panel",1272
+"181",48,"Ipsos","National",2024-10-07,-0.9,"REP","Probability Panel",1076
+"182",49,"Ipsos","National",2024-10-07,-0.9,"REP","Probability Panel",1076
+"183",50,"Quinnipiac","Michigan",2024-10-07,-0.5,"REP","Live Phone",1007
+"184",51,"Quinnipiac","Michigan",2024-10-07,-0.5,"REP","Live Phone",1007
+"185",46,"Quinnipiac","Pennsylvania",2024-10-07,-0.5,"REP","Live Phone",1412
+"186",47,"Quinnipiac","Pennsylvania",2024-10-07,-0.5,"REP","Live Phone",1412
+"187",48,"Quinnipiac","Wisconsin",2024-10-07,-0.5,"REP","Live Phone",1073
+"188",49,"Quinnipiac","Wisconsin",2024-10-07,-0.5,"REP","Live Phone",1073
+"189",51,"Marist","Florida",2024-10-07,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1257
+"190",51,"Marist","Florida",2024-10-07,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1410
+"191",52,"Marist","Texas",2024-10-07,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1365
+"192",53,"Marist","Texas",2024-10-07,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1186
+"193",52,"Marist","Ohio",2024-10-07,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1511
+"194",52,"Marist","Ohio",2024-10-07,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1327
+"195",51,"The Washington Post","Ohio",2024-10-07,-1.2,"REP","Live Phone/Text-to-Web",1002
+"196",51,"The Washington Post","Ohio",2024-10-07,-1.2,"REP","Live Phone/Text-to-Web",1002
+"197",54,"Noble Predictive Insights","Utah",2024-10-07,-0.4,"REP","Online Panel/Text-to-Web",539
+"198",54,"Noble Predictive Insights","Utah",2024-10-07,-0.4,"REP","Online Panel/Text-to-Web",539
+"199",52,"Noble Predictive Insights","Utah",2024-10-07,-0.4,"REP","Online Panel/Text-to-Web",600
+"200",51,"Noble Predictive Insights","Utah",2024-10-07,-0.4,"REP","Online Panel/Text-to-Web",600
+"201",45,"Research Co.","National",2024-10-06,-0.5,"REP","Online Panel",1001
+"202",47,"Pew","National",2024-10-06,-0.4,"REP","Probability Panel",4025
+"203",49,"Pew","National",2024-10-06,-0.4,"REP","Probability Panel",4025
+"204",46,"Siena/NYT","National",2024-10-06,-1.5,"REP","Live Phone",3385
+"205",44,"Siena/NYT","National",2024-10-06,-1.5,"REP","Live Phone",3385
+"206",55,"Siena/NYT","Florida",2024-10-06,-1.5,"REP","Live Phone",622
+"207",53,"Siena/NYT","Florida",2024-10-06,-1.5,"REP","Live Phone",622
+"208",54,"Siena/NYT","Florida",2024-10-06,-1.5,"REP","Live Phone",622
+"209",53,"Siena/NYT","Florida",2024-10-06,-1.5,"REP","Live Phone",622
+"210",32.2,"Suffolk","Massachusetts",2024-10-05,-1,"REP","Live Phone",500
+"211",45,"YouGov","National",2024-10-04,-1.1,"REP","Online Panel",1150
+"212",47,"YouGov","National",2024-10-04,-1.1,"REP","Online Panel",1032
+"213",46,"YouGov","National",2024-10-04,-1.1,"REP","Online Panel",1151
+"214",47,"YouGov","National",2024-10-04,-1.1,"REP","Online Panel",1033
+"215",46,"Noble Predictive Insights","National",2024-10-04,-0.4,"REP","Online Panel",2290
+"216",47,"Noble Predictive Insights","National",2024-10-04,-0.4,"REP","Online Panel",2290
+"217",46,"Noble Predictive Insights","National",2024-10-04,-0.4,"REP","Online Panel",2560
+"218",45,"Noble Predictive Insights","National",2024-10-04,-0.4,"REP","Online Panel",2560
+"219",49,"Mason-Dixon","Florida",2024-10-04,-1.1,"REP","Live Phone",625
+"220",50,"Siena/NYT","Texas",2024-10-04,-1.5,"REP","Live Phone",617
+"221",49,"Siena/NYT","Texas",2024-10-04,-1.5,"REP","Live Phone",617
+"222",50,"Siena/NYT","Texas",2024-10-04,-1.5,"REP","Live Phone",617
+"223",48,"Siena/NYT","Texas",2024-10-04,-1.5,"REP","Live Phone",617
+"224",41,"Christopher Newport U.","Virginia",2024-10-04,-0.6,"REP","Live Phone",800
+"225",46,"Data for Progress","National",2024-10-03,-1.2,"REP","Online Panel",1211
+"226",49,"RMG Research","National",2024-10-03,-0.4,"REP","Online Panel",2965
+"227",49,"RMG Research","Nevada",2024-10-03,-0.4,"REP","Online Panel",782
+"228",44,"St. Anselm","New Hampshire",2024-10-02,-0.5,"REP","Online Panel",2104
+"229",50,"RMG Research","Arizona",2024-10-02,-0.4,"REP","Online Panel",783
+"230",44.7,"YouGov/Center for Working Class Politics","Pennsylvania",2024-10-02,-1.1,"REP","Online Panel",1000
+"231",45,"YouGov","National",2024-10-01,-1.1,"REP","Online Panel",1463
+"232",46,"YouGov","National",2024-10-01,-1.1,"REP","Online Panel",1261
+"233",48.6,"Emerson","National",2024-10-01,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"234",48,"Marist","National",2024-10-01,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1294
+"235",47,"Marist","National",2024-10-01,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1514
+"236",35,"UC Berkeley","California",2024-10-01,-0.2,"REP","Email",3045
+"237",49,"Mitchell","Michigan",2024-09-30,-0.2,"REP","Text-to-Web",709
+"238",47,"Mitchell","Michigan",2024-09-30,-0.2,"REP","Text-to-Web",709
+"239",49.1,"InsiderAdvantage","Arizona",2024-09-30,-0.3,"REP","Text",800
+"240",49.3,"InsiderAdvantage","Nevada",2024-09-30,-0.3,"REP","Text",800
+"241",49.5,"InsiderAdvantage","North Carolina",2024-09-30,-0.3,"REP","Text",800
+"242",48.1,"InsiderAdvantage","Georgia",2024-09-30,-0.3,"REP","Text",800
+"243",50,"The Washington Post","North Carolina",2024-09-29,-1.2,"REP","Live Phone/Text-to-Web",1001
+"244",50,"The Washington Post","North Carolina",2024-09-29,-1.2,"REP","Live Phone/Text-to-Web",1001
+"245",49,"Quinnipiac","North Carolina",2024-09-29,-0.5,"REP","Live Phone",953
+"246",49,"Quinnipiac","North Carolina",2024-09-29,-0.5,"REP","Live Phone",953
+"247",50,"Quinnipiac","Georgia",2024-09-29,-0.5,"REP","Live Phone",942
+"248",50,"Quinnipiac","Georgia",2024-09-29,-0.5,"REP","Live Phone",942
+"249",46,"National Research","Arizona",2024-09-29,-0.5,"REP","Live Phone/Text-to-Web",600
+"250",51.6,"Winthrop U.","South Carolina",2024-09-29,-0.3,"REP","Live Phone/Online Panel",1068
+"251",46,"High Point University","North Carolina",2024-09-29,-0.4,"REP","Online Panel",814
+"252",48,"High Point University","North Carolina",2024-09-29,-0.4,"REP","Online Panel",589
+"253",51.7,"Emerson","Arizona",2024-09-28,-1.1,"REP","Online Panel/Text-to-Web",920
+"254",49.9,"Emerson","North Carolina",2024-09-28,-1.1,"REP","Online Panel/Text-to-Web",850
+"255",48.8,"Emerson","Pennsylvania",2024-09-28,-1.1,"REP","Online Panel/Text-to-Web",1000
+"256",53,"RMG Research","Texas",2024-09-27,-0.4,"REP","Online Panel",779
+"257",50,"RMG Research","Florida",2024-09-27,-0.4,"REP","Online Panel",774
+"258",51,"RMG Research","North Carolina",2024-09-27,-0.4,"REP","Online Panel",780
+"259",47,"RMG Research","Michigan",2024-09-27,-0.4,"REP","Online Panel",789
+"260",45,"McCourtney Institute/YouGov","National",2024-09-27,-1.1,"REP","Online Panel",848
+"261",42,"Siena/NYT","Nebraska CD-2",2024-09-26,-1.5,"REP","Live Phone",680
+"262",41,"Siena/NYT","Nebraska CD-2",2024-09-26,-1.5,"REP","Live Phone",680
+"263",43,"Siena/NYT","Nebraska CD-2",2024-09-26,-1.5,"REP","Live Phone",680
+"264",42,"Siena/NYT","Nebraska CD-2",2024-09-26,-1.5,"REP","Live Phone",680
+"265",44,"SurveyUSA","Minnesota",2024-09-26,-1.3,"REP","Online Panel",646
+"266",49.4,"East Carolina University","North Carolina",2024-09-26,-0.5,"REP","IVR/Text-to-Web",1005
+"267",47,"Siena/NYT","Michigan",2024-09-26,-1.5,"REP","Live Phone",688
+"268",46,"Siena/NYT","Michigan",2024-09-26,-1.5,"REP","Live Phone",688
+"269",47,"Siena/NYT","Michigan",2024-09-26,-1.5,"REP","Live Phone",688
+"270",46,"Siena/NYT","Michigan",2024-09-26,-1.5,"REP","Live Phone",688
+"271",49,"Siena/NYT","Ohio",2024-09-26,-1.5,"REP","Live Phone",687
+"272",47,"Siena/NYT","Ohio",2024-09-26,-1.5,"REP","Live Phone",687
+"273",50,"Siena/NYT","Ohio",2024-09-26,-1.5,"REP","Live Phone",687
+"274",49,"Siena/NYT","Ohio",2024-09-26,-1.5,"REP","Live Phone",687
+"275",47,"Siena/NYT","Wisconsin",2024-09-26,-1.5,"REP","Live Phone",680
+"276",45,"Siena/NYT","Wisconsin",2024-09-26,-1.5,"REP","Live Phone",680
+"277",47,"Siena/NYT","Wisconsin",2024-09-26,-1.5,"REP","Live Phone",680
+"278",46,"Siena/NYT","Wisconsin",2024-09-26,-1.5,"REP","Live Phone",680
+"279",48,"Marquette Law School","Wisconsin",2024-09-26,-1.1,"REP","Probability Panel",882
+"280",48,"Marquette Law School","Wisconsin",2024-09-26,-1.1,"REP","Probability Panel",798
+"281",44,"Marquette Law School","Wisconsin",2024-09-26,-1.1,"REP","Probability Panel",882
+"282",44,"Marquette Law School","Wisconsin",2024-09-26,-1.1,"REP","Probability Panel",798
+"283",45,"Echelon Insights","National",2024-09-25,-0.8,"REP","Online Panel",1005
+"284",44,"Echelon Insights","National",2024-09-25,-0.8,"REP","Online Panel",1005
+"285",41.6,"Emerson","New York",2024-09-25,-1.1,"REP","Online Panel/Text-to-Web",1000
+"286",48,"RMG Research","National",2024-09-25,-0.4,"REP","Online Panel",2952
+"287",48,"CNN/SSRS","North Carolina",2024-09-25,-0.6,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web/Mail-to-Phone",931
+"288",42,"CNN/SSRS","Nebraska CD-2",2024-09-25,-0.6,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web/Mail-to-Phone",749
+"289",49.7,"AtlasIntel","Arizona",2024-09-25,-0.8,"REP","Online Ad",946
+"290",49.8,"AtlasIntel","Arizona",2024-09-25,-0.8,"REP","Online Ad",946
+"291",50.4,"AtlasIntel","Michigan",2024-09-25,-0.8,"REP","Online Ad",918
+"292",50.6,"AtlasIntel","Michigan",2024-09-25,-0.8,"REP","Online Ad",918
+"293",47.7,"AtlasIntel","Nevada",2024-09-25,-0.8,"REP","Online Ad",858
+"294",47.7,"AtlasIntel","Nevada",2024-09-25,-0.8,"REP","Online Ad",858
+"295",50.6,"AtlasIntel","Pennsylvania",2024-09-25,-0.8,"REP","Online Ad",1775
+"296",51,"AtlasIntel","Pennsylvania",2024-09-25,-0.8,"REP","Online Ad",1775
+"297",49.6,"AtlasIntel","Wisconsin",2024-09-25,-0.8,"REP","Online Ad",1077
+"298",49.7,"AtlasIntel","Wisconsin",2024-09-25,-0.8,"REP","Online Ad",1077
+"299",47.3,"AtlasIntel","North Carolina",2024-09-25,-0.8,"REP","Online Ad",1173
+"300",48.1,"AtlasIntel","North Carolina",2024-09-25,-0.8,"REP","Online Ad",1173
+"301",49.3,"AtlasIntel","Georgia",2024-09-25,-0.8,"REP","Online Ad",1200
+"302",49.6,"AtlasIntel","Georgia",2024-09-25,-0.8,"REP","Online Ad",1200
+"303",37,"Virginia Commonwealth U.","Virginia",2024-09-25,-0.1,"REP","Live Phone/Text-to-Web",832
+"304",36.6,"Virginia Commonwealth U.","Virginia",2024-09-25,-0.1,"REP","Live Phone/Text-to-Web",762
+"305",52.3,"Emerson","Texas",2024-09-24,-1.1,"REP","Online Panel/Text-to-Web",950
+"306",46.2,"Emerson","Virginia",2024-09-24,-1.1,"REP","Online Panel/Text-to-Web",860
+"307",44,"YouGov","National",2024-09-24,-1.1,"REP","Online Panel",1424
+"308",46,"YouGov","National",2024-09-24,-1.1,"REP","Online Panel",1220
+"309",51,"YouGov","Georgia",2024-09-24,-1.1,"REP","Online Panel",1441
+"310",49,"Beacon/Shaw","Arizona",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",1021
+"311",50,"Beacon/Shaw","Arizona",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",764
+"312",50,"Beacon/Shaw","Arizona",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",1021
+"313",51,"Beacon/Shaw","Arizona",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",764
+"314",47,"Beacon/Shaw","Georgia",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",1006
+"315",48,"Beacon/Shaw","Georgia",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",707
+"316",48,"Beacon/Shaw","Georgia",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",1006
+"317",48,"Beacon/Shaw","Georgia",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",707
+"318",49,"Beacon/Shaw","North Carolina",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",787
+"319",47,"Beacon/Shaw","North Carolina",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",991
+"320",50,"Beacon/Shaw","North Carolina",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",787
+"321",48,"Beacon/Shaw","North Carolina",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",991
+"322",48,"Beacon/Shaw","Pennsylvania",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",775
+"323",46,"Beacon/Shaw","Pennsylvania",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",1021
+"324",49,"Beacon/Shaw","Pennsylvania",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",775
+"325",48,"Beacon/Shaw","Pennsylvania",2024-09-24,-1.1,"REP","Live Phone/Text-to-Web",1021
+"326",50,"Marist","Arizona",2024-09-24,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1416
+"327",50,"Marist","Arizona",2024-09-24,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1264
+"328",48,"Marist","North Carolina",2024-09-24,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1507
+"329",49,"Marist","North Carolina",2024-09-24,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1348
+"330",48,"Marist","Georgia",2024-09-24,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1420
+"331",50,"Marist","Georgia",2024-09-24,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1220
+"332",48.4,"Suffolk","Arizona",2024-09-24,-1,"REP","Live Phone",500
+"333",56,"SurveyUSA","Nebraska",2024-09-23,-1.3,"REP","IVR/Online Panel/Text-to-Web",558
+"334",31,"University of Maryland/Washington Post","Maryland",2024-09-23,-0.3,"REP","Live Phone/Text-to-Web",1012
+"335",32,"University of Maryland/Washington Post","Maryland",2024-09-23,-0.3,"REP","Live Phone/Text-to-Web",1012
+"336",31,"University of Maryland/Washington Post","Maryland",2024-09-23,-0.3,"REP","Live Phone/Text-to-Web",1012
+"337",32,"University of Maryland/Washington Post","Maryland",2024-09-23,-0.3,"REP","Live Phone/Text-to-Web",1012
+"338",49,"RMG Research","Wisconsin",2024-09-23,-0.4,"REP","Online Panel",788
+"339",40.48,"Ipsos","National",2024-09-22,-0.9,"REP","Probability Panel",871
+"340",44,"Ipsos","National",2024-09-22,-0.9,"REP","Probability Panel",785
+"341",38,"Ipsos","National",2024-09-22,-0.9,"REP","Probability Panel",1029
+"342",47,"CNN/SSRS","National",2024-09-22,-0.6,"REP","Probability Panel",2074
+"343",47,"CNN/SSRS","National",2024-09-22,-0.6,"REP","Probability Panel",2074
+"344",48,"Quinnipiac","National",2024-09-22,-0.5,"REP","Live Phone",1728
+"345",48,"Quinnipiac","National",2024-09-22,-0.5,"REP","Live Phone",1728
+"346",49,"Siena/NYT","Arizona",2024-09-21,-1.5,"REP","Live Phone",713
+"347",50,"Siena/NYT","Arizona",2024-09-21,-1.5,"REP","Live Phone",713
+"348",47,"Siena/NYT","Arizona",2024-09-21,-1.5,"REP","Live Phone",713
+"349",48,"Siena/NYT","Arizona",2024-09-21,-1.5,"REP","Live Phone",713
+"350",48,"Siena/NYT","Georgia",2024-09-21,-1.5,"REP","Live Phone",682
+"351",49,"Siena/NYT","Georgia",2024-09-21,-1.5,"REP","Live Phone",682
+"352",46,"Siena/NYT","Georgia",2024-09-21,-1.5,"REP","Live Phone",682
+"353",47,"Siena/NYT","Georgia",2024-09-21,-1.5,"REP","Live Phone",682
+"354",48,"Siena/NYT","North Carolina",2024-09-21,-1.5,"REP","Live Phone",682
+"355",49,"Siena/NYT","North Carolina",2024-09-21,-1.5,"REP","Live Phone",682
+"356",46,"Siena/NYT","North Carolina",2024-09-21,-1.5,"REP","Live Phone",682
+"357",47,"Siena/NYT","North Carolina",2024-09-21,-1.5,"REP","Live Phone",682
+"358",48,"YouGov","National",2024-09-20,-1.1,"REP","Online Panel",3129
+"359",54,"RMG Research","Ohio",2024-09-20,-0.4,"REP","Online Panel",781
+"360",48,"Muhlenberg","Pennsylvania",2024-09-19,-1,"REP","Live Phone",450
+"361",59,"RMG Research","Montana",2024-09-19,-0.4,"REP","Online Panel",491
+"362",43,"University of Massachusetts Lowell/YouGov","Michigan",2024-09-19,-1,"REP","Online Panel",650
+"363",46,"University of Massachusetts Lowell/YouGov","Pennsylvania",2024-09-19,-1,"REP","Online Panel",800
+"364",43,"Mason-Dixon","Minnesota",2024-09-18,-1.1,"REP","Live Phone",800
+"365",45.4,"Suffolk","Michigan",2024-09-18,-1,"REP","Live Phone",500
+"366",49.8,"Emerson","Arizona",2024-09-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",868
+"367",50.3,"Emerson","Georgia",2024-09-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",975
+"368",49.1,"Emerson","Michigan",2024-09-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",875
+"369",49,"Emerson","Nevada",2024-09-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",895
+"370",49.3,"Emerson","Pennsylvania",2024-09-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",880
+"371",49.3,"Emerson","North Carolina",2024-09-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"372",50.3,"Emerson","Wisconsin",2024-09-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"373",46,"MassINC Polling Group","Pennsylvania",2024-09-18,-0.8,"REP","Live Phone/Text-to-Web",800
+"374",47,"MassINC Polling Group","Pennsylvania",2024-09-18,-0.8,"REP","Live Phone/Text-to-Web",800
+"375",32,"MassINC Polling Group","Massachusetts",2024-09-18,-0.8,"REP","Live Phone/Text-to-Web",800
+"376",35,"MassINC Polling Group","Massachusetts",2024-09-18,-0.8,"REP","Live Phone/Text-to-Web",800
+"377",42,"SurveyUSA","New Mexico",2024-09-18,-1.3,"REP","Online Panel",619
+"378",45,"MassINC Polling Group","Wisconsin",2024-09-18,-0.8,"REP","Live Phone/Text-to-Web",800
+"379",46,"MassINC Polling Group","Wisconsin",2024-09-18,-0.8,"REP","Live Phone/Text-to-Web",800
+"380",37,"MassINC Polling Group","Connecticut",2024-09-18,-0.8,"REP","Live Phone/Text-to-Web",800
+"381",40,"MassINC Polling Group","Rhode Island",2024-09-18,-0.8,"REP","Live Phone/Text-to-Web",800
+"382",43,"MassINC Polling Group","Rhode Island",2024-09-18,-0.8,"REP","Live Phone/Text-to-Web",800
+"383",45,"YouGov","National",2024-09-17,-1.1,"REP","Online Panel",1445
+"384",44,"Hart/POS","National",2024-09-17,-0.7,"REP","Live Phone",1000
+"385",41,"Hart/POS","National",2024-09-17,-0.7,"REP","Live Phone",1000
+"386",48,"Marist","Pennsylvania",2024-09-17,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1663
+"387",49,"Marist","Pennsylvania",2024-09-17,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1476
+"388",47,"Marist","Wisconsin",2024-09-17,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1312
+"389",49,"Marist","Wisconsin",2024-09-17,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1194
+"390",47,"Marist","Michigan",2024-09-17,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1282
+"391",47,"Marist","Michigan",2024-09-17,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1138
+"392",45,"Data for Progress","National",2024-09-17,-1.2,"REP","Online Panel",6152
+"393",45.6,"Cygnal","North Carolina",2024-09-16,-1.1,"REP","Live Phone/Text-to-Web",600
+"394",45,"Angus Reid","National",2024-09-16,-0.1,"REP","Online Panel",1707
+"395",48,"Beacon/Shaw","National",2024-09-16,-1.1,"REP","Live Phone/Text-to-Web",1102
+"396",48,"Beacon/Shaw","National",2024-09-16,-1.1,"REP","Live Phone/Text-to-Web",876
+"397",45,"Quinnipiac","Pennsylvania",2024-09-16,-0.5,"REP","Live Phone",1331
+"398",46,"Quinnipiac","Pennsylvania",2024-09-16,-0.5,"REP","Live Phone",1331
+"399",45,"Quinnipiac","Michigan",2024-09-16,-0.5,"REP","Live Phone",905
+"400",46,"Quinnipiac","Michigan",2024-09-16,-0.5,"REP","Live Phone",905
+"401",47,"Quinnipiac","Wisconsin",2024-09-16,-0.5,"REP","Live Phone",1075
+"402",48,"Quinnipiac","Wisconsin",2024-09-16,-0.5,"REP","Live Phone",1075
+"403",38,"U. New Hampshire","Rhode Island",2024-09-16,-0.3,"REP","Probability Panel",683
+"404",31,"U. New Hampshire","Massachusetts",2024-09-16,-0.3,"REP","Probability Panel",564
+"405",43,"U. New Hampshire","New Hampshire",2024-09-16,-0.3,"REP","Probability Panel",1695
+"406",47,"The Washington Post","Pennsylvania",2024-09-16,-1.2,"REP","Live Phone/Text-to-Web",1003
+"407",48,"The Washington Post","Pennsylvania",2024-09-16,-1.2,"REP","Live Phone/Text-to-Web",1003
+"408",47,"Siena/NYT","National",2024-09-16,-1.5,"REP","Live Phone",2437
+"409",47,"Siena/NYT","National",2024-09-16,-1.5,"REP","Live Phone",2437
+"410",46,"Siena/NYT","National",2024-09-16,-1.5,"REP","Live Phone",2437
+"411",46,"Siena/NYT","National",2024-09-16,-1.5,"REP","Live Phone",2437
+"412",40,"Siena","New York",2024-09-16,-0.8,"REP","Live Phone/Text-to-Web",1003
+"413",42,"Siena","New York",2024-09-16,-0.8,"REP","Live Phone/Text-to-Web",1003
+"414",46,"Siena/NYT","Pennsylvania",2024-09-16,-1.5,"REP","Live Phone",1082
+"415",46,"Siena/NYT","Pennsylvania",2024-09-16,-1.5,"REP","Live Phone",1082
+"416",45,"Siena/NYT","Pennsylvania",2024-09-16,-1.5,"REP","Live Phone",1082
+"417",45,"Siena/NYT","Pennsylvania",2024-09-16,-1.5,"REP","Live Phone",1082
+"418",47,"Noble Predictive Insights","Nevada",2024-09-16,-0.4,"REP","Online Panel/Text-to-Web",692
+"419",45,"Noble Predictive Insights","Nevada",2024-09-16,-0.4,"REP","Online Panel/Text-to-Web",812
+"420",47,"Noble Predictive Insights","Nevada",2024-09-16,-0.4,"REP","Online Panel/Text-to-Web",692
+"421",43,"Noble Predictive Insights","Nevada",2024-09-16,-0.4,"REP","Online Panel/Text-to-Web",812
+"422",49.8,"InsiderAdvantage","Pennsylvania",2024-09-15,-0.3,"REP","Text",800
+"423",44,"Monmouth","National",2024-09-15,-0.9,"REP","Live Phone/Text-to-Web",803
+"424",46.9,"U. Georgia SPIA","Georgia",2024-09-15,-0.2,"REP","Live Phone",1000
+"425",41,"Pan Atlantic Research","Maine",2024-09-15,-0.1,"REP","Online Panel",812
+"426",32,"Pan Atlantic Research","Maine CD-1",2024-09-15,-0.1,"REP","Online Panel",414
+"427",49,"Pan Atlantic Research","Maine CD-2",2024-09-15,-0.1,"REP","Online Panel",398
+"428",46,"Franklin and Marshall College","Pennsylvania",2024-09-15,-0.1,"REP","Mail-to-Web/Mail-to-Phone",890
+"429",45.6,"Suffolk","Pennsylvania",2024-09-14,-1,"REP","Live Phone",500
+"430",46,"Data for Progress","National",2024-09-13,-1.2,"REP","Online Panel",1283
+"431",33.3,"Emerson","Maryland",2024-09-13,-1.1,"REP","Online Panel/Text-to-Web",890
+"432",55.2,"Emerson","Missouri",2024-09-13,-1.1,"REP","Online Panel/Text-to-Web",850
+"433",57.9,"Emerson","Indiana",2024-09-13,-1.1,"REP","Online Panel/Text-to-Web",1000
+"434",45,"YouGov","National",2024-09-13,-1.1,"REP","Online Panel",1177
+"435",46,"YouGov","National",2024-09-13,-1.1,"REP","Online Panel",1090
+"436",44,"YouGov","National",2024-09-13,-1.1,"REP","Online Panel",1175
+"437",45,"YouGov","National",2024-09-13,-1.1,"REP","Online Panel",1090
+"438",46,"Ipsos","National",2024-09-13,-0.9,"REP","Probability Panel",3276
+"439",47,"Ipsos","National",2024-09-13,-0.9,"REP","Probability Panel",2772
+"440",46,"Ipsos","National",2024-09-13,-0.9,"REP","Probability Panel",2196
+"441",45,"Ipsos","National",2024-09-13,-0.9,"REP","Probability Panel",3276
+"442",46,"Ipsos","National",2024-09-13,-0.9,"REP","Probability Panel",2772
+"443",46,"Ipsos","National",2024-09-13,-0.9,"REP","Probability Panel",2196
+"444",39,"Research & Polling","New Mexico",2024-09-13,-0.9,"REP","Live Phone",532
+"445",45,"Elon U.","North Carolina",2024-09-13,-0.6,"REP","Online Panel",800
+"446",48.6,"InsiderAdvantage","Michigan",2024-09-12,-0.3,"REP","Text",800
+"447",42,"Ipsos","National",2024-09-12,-0.9,"REP","Probability Panel",1405
+"448",39,"Ipsos","National",2024-09-12,-0.9,"REP","Probability Panel",1690
+"449",43,"St. Anselm","New Hampshire",2024-09-12,-0.5,"REP","Online Panel",2241
+"450",43,"St. Anselm","New Hampshire",2024-09-12,-0.5,"REP","Online Panel",2241
+"451",48,"Mitchell","Michigan",2024-09-11,-0.2,"REP","IVR/Text-to-Web",580
+"452",46,"Mitchell","Michigan",2024-09-11,-0.2,"REP","IVR/Text-to-Web",580
+"453",44,"Leger","National",2024-09-11,0,"REP","Online Panel",1174
+"454",47,"Selzer","Iowa",2024-09-11,-1.2,"REP","Live Phone",656
+"455",45,"YouGov","National",2024-09-10,-1.1,"REP","Online Panel",1464
+"456",46.2,"Data Orbital","Arizona",2024-09-09,-0.9,"REP","Live Phone/Text-to-Web",550
+"457",29,"PPIC","California",2024-09-09,-0.4,"REP","Probability Panel",1071
+"458",46,"Quinnipiac","North Carolina",2024-09-08,-0.5,"REP","Live Phone",940
+"459",47,"Quinnipiac","North Carolina",2024-09-08,-0.5,"REP","Live Phone",940
+"460",49,"Quinnipiac","Georgia",2024-09-08,-0.5,"REP","Live Phone",969
+"461",49,"Quinnipiac","Georgia",2024-09-08,-0.5,"REP","Live Phone",969
+"462",42,"Washington Post/George Mason University","Virginia",2024-09-08,-0.8,"REP","Live Phone/Text-to-Web",1005
+"463",43,"Washington Post/George Mason University","Virginia",2024-09-08,-0.8,"REP","Live Phone/Text-to-Web",1005
+"464",42,"Washington Post/George Mason University","Virginia",2024-09-08,-0.8,"REP","Live Phone/Text-to-Web",1005
+"465",43,"Washington Post/George Mason University","Virginia",2024-09-08,-0.8,"REP","Live Phone/Text-to-Web",1005
+"466",46,"SurveyUSA","North Carolina",2024-09-07,-1.3,"REP","Online Panel",676
+"467",49,"YouGov","Michigan",2024-09-06,-1.1,"REP","Online Panel",1077
+"468",50,"YouGov","Pennsylvania",2024-09-06,-1.1,"REP","Online Panel",1078
+"469",49,"YouGov","Wisconsin",2024-09-06,-1.1,"REP","Online Panel",946
+"470",48,"Siena/NYT","National",2024-09-06,-1.5,"REP","Live Phone",1695
+"471",47,"Siena/NYT","National",2024-09-06,-1.5,"REP","Live Phone",1695
+"472",48,"Siena/NYT","National",2024-09-06,-1.5,"REP","Live Phone",1695
+"473",46,"Siena/NYT","National",2024-09-06,-1.5,"REP","Live Phone",1695
+"474",36,"Virginia Commonwealth U.","Virginia",2024-09-06,-0.1,"REP","Live Phone/Text-to-Web",813
+"475",35.7,"Virginia Commonwealth U.","Virginia",2024-09-06,-0.1,"REP","Live Phone/Text-to-Web",749
+"476",38,"Emerson","California",2024-09-05,-1.1,"REP","Online Panel/Text-to-Web",815
+"477",51.1,"Emerson","Florida",2024-09-05,-1.1,"REP","Online Panel/Text-to-Web",815
+"478",50.9,"Emerson","Texas",2024-09-05,-1.1,"REP","Online Panel/Text-to-Web",845
+"479",54.3,"Emerson","Ohio",2024-09-05,-1.1,"REP","Online Panel/Text-to-Web",945
+"480",48,"Marist","National",2024-09-05,-0.9,"REP","Live Phone/Online Panel/Text",1413
+"481",48,"Marquette Law School","Wisconsin",2024-09-05,-1.1,"REP","Live Phone/Email",822
+"482",48,"Marquette Law School","Wisconsin",2024-09-05,-1.1,"REP","Live Phone/Email",738
+"483",43,"Marquette Law School","Wisconsin",2024-09-05,-1.1,"REP","Live Phone/Email",822
+"484",43,"Marquette Law School","Wisconsin",2024-09-05,-1.1,"REP","Live Phone/Email",738
+"485",47.6,"Emerson","National",2024-09-04,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"486",41,"SurveyMonkey","National",2024-09-04,0.2,"REP","Online Panel",18123
+"487",37,"SurveyMonkey","National",2024-09-04,0.2,"REP","Online Panel",20762
+"488",47,"Kaiser Family Foundation","National",2024-09-04,-0.3,"REP","Live Phone/Probability Panel",1084
+"489",45,"YouGov","National",2024-09-03,-1.1,"REP","Online Panel",1389
+"490",49,"Pew","National",2024-09-02,-0.4,"REP","Probability Panel",8044
+"491",53,"Cygnal","Alaska",2024-09-01,-1.1,"REP","Live Phone/Text-to-Web",400
+"492",49,"YouGov","Texas",2024-08-31,-1.1,"REP","Online Panel",1200
+"493",49,"YouGov","Texas",2024-08-31,-1.1,"REP","Online Panel",1200
+"494",43,"SurveyUSA","Minnesota",2024-08-29,-1.3,"REP","Online Panel",635
+"495",49,"CNN/SSRS","Arizona",2024-08-29,-0.6,"REP","Probability Panel",682
+"496",47,"CNN/SSRS","Georgia",2024-08-29,-0.6,"REP","Probability Panel",617
+"497",43,"CNN/SSRS","Michigan",2024-08-29,-0.6,"REP","Probability Panel",708
+"498",47,"CNN/SSRS","Nevada",2024-08-29,-0.6,"REP","Probability Panel",626
+"499",47,"CNN/SSRS","Pennsylvania",2024-08-29,-0.6,"REP","Probability Panel",789
+"500",44,"CNN/SSRS","Wisconsin",2024-08-29,-0.6,"REP","Probability Panel",976
+"501",48,"RMG Research","National",2024-08-28,-0.4,"REP","Online Panel",2441
+"502",47.6,"East Carolina University","North Carolina",2024-08-28,-0.5,"REP","IVR/Text-to-Web",920
+"503",51.2,"Emerson","Arizona",2024-08-28,-1.1,"REP","IVR/Online Panel/Text-to-Web",720
+"504",47.6,"Emerson","Michigan",2024-08-28,-1.1,"REP","IVR/Online Panel/Text-to-Web",800
+"505",48.8,"Emerson","Nevada",2024-08-28,-1.1,"REP","IVR/Online Panel/Text-to-Web",1168
+"506",49.4,"Emerson","Pennsylvania",2024-08-28,-1.1,"REP","IVR/Online Panel/Text-to-Web",950
+"507",49.8,"Emerson","Wisconsin",2024-08-28,-1.1,"REP","IVR/Online Panel/Text-to-Web",850
+"508",49.9,"Emerson","North Carolina",2024-08-28,-1.1,"REP","IVR/Online Panel/Text-to-Web",775
+"509",49,"Emerson","Georgia",2024-08-28,-1.1,"REP","IVR/Online Panel/Text-to-Web",800
+"510",43.3,"Suffolk","National",2024-08-28,-1,"REP","Live Phone",1000
+"511",40,"Ipsos","National",2024-08-28,-0.9,"REP","Probability Panel",3562
+"512",38,"Ipsos","National",2024-08-28,-0.9,"REP","Probability Panel",4253
+"513",41,"Ipsos","National",2024-08-28,-0.9,"REP","Probability Panel",3562
+"514",36,"Ipsos","National",2024-08-28,-0.9,"REP","Probability Panel",4253
+"515",45,"YouGov","National",2024-08-27,-1.1,"REP","Online Panel",1368
+"516",47,"Quinnipiac","National",2024-08-27,-0.5,"REP","Live Phone",1611
+"517",48,"Quinnipiac","National",2024-08-27,-0.5,"REP","Live Phone",1611
+"518",46,"Ipsos","National",2024-08-27,-0.9,"REP","Probability Panel",2496
+"519",45,"Ipsos","National",2024-08-27,-0.9,"REP","Probability Panel",2496
+"520",54,"SurveyUSA","Nebraska",2024-08-27,-1.3,"REP","IVR/Online Panel/Text-to-Web",1293
+"521",42,"SurveyUSA","Nebraska CD-2",2024-08-27,-1.3,"REP","IVR/Online Panel/Text-to-Web",507
+"522",47,"Beacon/Shaw","Arizona",2024-08-26,-1.1,"REP","Live Phone/Text-to-Web",1014
+"523",49,"Beacon/Shaw","Arizona",2024-08-26,-1.1,"REP","Live Phone/Text-to-Web",1014
+"524",46,"Beacon/Shaw","Georgia",2024-08-26,-1.1,"REP","Live Phone/Text-to-Web",1014
+"525",48,"Beacon/Shaw","Georgia",2024-08-26,-1.1,"REP","Live Phone/Text-to-Web",1014
+"526",46,"Beacon/Shaw","Nevada",2024-08-26,-1.1,"REP","Live Phone/Text-to-Web",1026
+"527",48,"Beacon/Shaw","Nevada",2024-08-26,-1.1,"REP","Live Phone/Text-to-Web",1026
+"528",48,"Beacon/Shaw","North Carolina",2024-08-26,-1.1,"REP","Live Phone/Text-to-Web",999
+"529",50,"Beacon/Shaw","North Carolina",2024-08-26,-1.1,"REP","Live Phone/Text-to-Web",999
+"530",45,"YouGov","National",2024-08-26,-1.1,"REP","Online Panel",1194
+"531",46,"YouGov","National",2024-08-26,-1.1,"REP","Online Panel",1197
+"532",36,"YouGov","National",2024-08-26,-1.1,"REP","Online Panel",1788
+"533",42,"YouGov","National",2024-08-26,-1.1,"REP","Online Panel",1200
+"534",49,"Echelon Insights","National",2024-08-25,-0.8,"REP","Online Panel",1031
+"535",45,"Echelon Insights","National",2024-08-25,-0.8,"REP","Online Panel",1031
+"536",48,"Echelon Insights","National",2024-08-25,-0.8,"REP","Online Panel",1031
+"537",50,"Echelon Insights","National",2024-08-25,-0.8,"REP","Online Panel",1031
+"538",46,"Leger","National",2024-08-25,0,"REP","Online Panel",908
+"539",46,"Leger","National",2024-08-25,0,"REP","Online Panel",863
+"540",40,"Angus Reid","National",2024-08-23,-0.1,"REP","Online Panel",1758
+"541",42,"Angus Reid","National",2024-08-23,-0.1,"REP","Online Panel",1758
+"542",42.5,"YouGov","Pennsylvania",2024-08-23,-1.1,"REP","Online Panel",500
+"543",41,"YouGov","Pennsylvania",2024-08-23,-1.1,"REP","Online Panel",500
+"544",42,"YouGov","Wisconsin",2024-08-23,-1.1,"REP","Online Panel",500
+"545",40,"YouGov","Wisconsin",2024-08-23,-1.1,"REP","Online Panel",500
+"546",43.5,"YouGov","Michigan",2024-08-23,-1.1,"REP","Online Panel",500
+"547",41.5,"YouGov","Michigan",2024-08-23,-1.1,"REP","Online Panel",500
+"548",46.4,"Emerson","New Mexico",2024-08-22,-1.1,"REP","IVR/Online Panel/Text-to-Web",965
+"549",40.2,"Emerson","New Mexico",2024-08-22,-1.1,"REP","IVR/Online Panel/Text-to-Web",965
+"550",49,"RMG Research","National",2024-08-22,-0.4,"REP","Online Panel",2404
+"551",46,"RMG Research","National",2024-08-22,-0.4,"REP","Online Panel",2404
+"552",40,"YouGov","National",2024-08-22,-1.1,"REP","Online Panel",1835
+"553",45,"SurveyUSA/High Point University","North Carolina",2024-08-21,-1.3,"REP","Online Panel",1053
+"554",47,"SurveyUSA/High Point University","North Carolina",2024-08-21,-1.3,"REP","Online Panel",941
+"555",43,"YouGov","National",2024-08-20,-1.1,"REP","Online Panel",1371
+"556",43,"Fairleigh Dickinson","National",2024-08-20,-0.6,"REP","Live Phone/Text-to-Web",801
+"557",43,"U. New Hampshire","New Hampshire",2024-08-19,-0.3,"REP","Probability Panel",2048
+"558",47,"U. New Hampshire","New Hampshire",2024-08-19,-0.3,"REP","Probability Panel",2048
+"559",27,"U. New Hampshire","Vermont",2024-08-19,-0.3,"REP","Probability Panel",924
+"560",29,"U. New Hampshire","Vermont",2024-08-19,-0.3,"REP","Probability Panel",924
+"561",38,"U. New Hampshire","Maine",2024-08-19,-0.3,"REP","Probability Panel",951
+"562",41,"U. New Hampshire","Maine",2024-08-19,-0.3,"REP","Probability Panel",951
+"563",33,"U. New Hampshire","Maine CD-1",2024-08-19,-0.3,"REP","Probability Panel",490
+"564",36,"U. New Hampshire","Maine CD-1",2024-08-19,-0.3,"REP","Probability Panel",476
+"565",44,"U. New Hampshire","Maine CD-2",2024-08-19,-0.3,"REP","Probability Panel",443
+"566",47,"U. New Hampshire","Maine CD-2",2024-08-19,-0.3,"REP","Probability Panel",432
+"567",42,"Remington","Nebraska CD-2",2024-08-17,-0.6,"REP","IVR",656
+"568",48,"YouGov","National",2024-08-16,-1.1,"REP","Online Panel",3253
+"569",47,"YouGov","National",2024-08-16,-1.1,"REP","Online Panel",3253
+"570",44,"Roanoke College","Virginia",2024-08-16,-0.4,"REP","Live Phone/Online Panel",691
+"571",42,"Roanoke College","Virginia",2024-08-16,-0.4,"REP","Live Phone/Online Panel",691
+"572",47,"Noble Predictive Insights","Arizona",2024-08-16,-0.4,"REP","Online Panel",1003
+"573",44,"Noble Predictive Insights","Arizona",2024-08-16,-0.4,"REP","Online Panel",1003
+"574",54,"YouGov","Missouri",2024-08-16,-1.1,"REP","Online Panel",900
+"575",49.5,"University of Houston/Texas Southern University","Texas",2024-08-16,-0.3,"REP","Online Panel",1365
+"576",48,"Siena/NYT","Nevada",2024-08-15,-1.5,"REP","Live Phone",677
+"577",48,"Siena/NYT","Nevada",2024-08-15,-1.5,"REP","Live Phone",677
+"578",45,"Siena/NYT","Nevada",2024-08-15,-1.5,"REP","Live Phone",677
+"579",46,"Siena/NYT","Nevada",2024-08-15,-1.5,"REP","Live Phone",677
+"580",45,"Siena/NYT","Arizona",2024-08-15,-1.5,"REP","Live Phone",677
+"581",45,"Siena/NYT","Arizona",2024-08-15,-1.5,"REP","Live Phone",677
+"582",42,"Siena/NYT","Arizona",2024-08-15,-1.5,"REP","Live Phone",677
+"583",43,"Siena/NYT","Arizona",2024-08-15,-1.5,"REP","Live Phone",677
+"584",44,"St. Anselm","New Hampshire",2024-08-14,-0.5,"REP","Online Panel",1656
+"585",50.7,"Emerson","Pennsylvania",2024-08-14,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"586",47.4,"Emerson","Pennsylvania",2024-08-14,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"587",47.7,"Emerson","National",2024-08-14,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"588",43.5,"Emerson","National",2024-08-14,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"589",49,"RMG Research","National",2024-08-14,-0.4,"REP","Online Panel",2708
+"590",46,"RMG Research","National",2024-08-14,-0.4,"REP","Online Panel",2708
+"591",46,"Siena/NYT","North Carolina",2024-08-14,-1.5,"REP","Live Phone",655
+"592",47,"Siena/NYT","North Carolina",2024-08-14,-1.5,"REP","Live Phone",655
+"593",42,"Siena/NYT","North Carolina",2024-08-14,-1.5,"REP","Live Phone",655
+"594",44,"Siena/NYT","North Carolina",2024-08-14,-1.5,"REP","Live Phone",655
+"595",51,"Siena/NYT","Georgia",2024-08-14,-1.5,"REP","Live Phone",661
+"596",50,"Siena/NYT","Georgia",2024-08-14,-1.5,"REP","Live Phone",661
+"597",47,"Siena/NYT","Georgia",2024-08-14,-1.5,"REP","Live Phone",661
+"598",47,"Siena/NYT","Georgia",2024-08-14,-1.5,"REP","Live Phone",661
+"599",57,"RMG Research","Montana",2024-08-14,-0.4,"REP","Online Panel",540
+"600",44,"YouGov","National",2024-08-13,-1.1,"REP","Online Panel",1407
+"601",45,"Ipsos","National",2024-08-13,-0.9,"REP","Probability Panel",2336
+"602",45,"Ipsos","National",2024-08-13,-0.9,"REP","Probability Panel",1975
+"603",45,"Ipsos","National",2024-08-13,-0.9,"REP","Probability Panel",1505
+"604",44,"Ipsos","National",2024-08-13,-0.9,"REP","Probability Panel",2336
+"605",44,"Ipsos","National",2024-08-13,-0.9,"REP","Probability Panel",1975
+"606",45,"Beacon/Shaw","National",2024-08-12,-1.1,"REP","Live Phone",1105
+"607",50,"Beacon/Shaw","National",2024-08-12,-1.1,"REP","Live Phone",1105
+"608",45,"Quinnipiac","Pennsylvania",2024-08-12,-0.5,"REP","Live Phone",1738
+"609",47,"Quinnipiac","Pennsylvania",2024-08-12,-0.5,"REP","Live Phone",1738
+"610",46.8,"Suffolk","Florida",2024-08-11,-1,"REP","Live Phone",500
+"611",45,"Pew","National",2024-08-11,-0.4,"REP","Probability Panel",7569
+"612",43,"Franklin and Marshall College","Pennsylvania",2024-08-11,-0.1,"REP","Mail-to-Web/Mail-to-Phone",920
+"613",46,"Siena/NYT","Pennsylvania",2024-08-09,-1.5,"REP","Live Phone",693
+"614",46,"Siena/NYT","Pennsylvania",2024-08-09,-1.5,"REP","Live Phone",693
+"615",43,"Siena/NYT","Pennsylvania",2024-08-09,-1.5,"REP","Live Phone",693
+"616",44,"Siena/NYT","Pennsylvania",2024-08-09,-1.5,"REP","Live Phone",693
+"617",46,"YouGov Blue","North Carolina",2024-08-09,-1.1,"REP","Online Panel",802
+"618",48,"Siena/NYT","Michigan",2024-08-08,-1.5,"REP","Live Phone",619
+"619",46,"Siena/NYT","Michigan",2024-08-08,-1.5,"REP","Live Phone",619
+"620",43,"Siena/NYT","Michigan",2024-08-08,-1.5,"REP","Live Phone",619
+"621",43,"Siena/NYT","Michigan",2024-08-08,-1.5,"REP","Live Phone",619
+"622",46,"Siena/NYT","Wisconsin",2024-08-08,-1.5,"REP","Live Phone",661
+"623",46,"Siena/NYT","Wisconsin",2024-08-08,-1.5,"REP","Live Phone",661
+"624",42,"Siena/NYT","Wisconsin",2024-08-08,-1.5,"REP","Live Phone",661
+"625",43,"Siena/NYT","Wisconsin",2024-08-08,-1.5,"REP","Live Phone",661
+"626",46,"RMG Research","National",2024-08-07,-0.4,"REP","Online Panel",2000
+"627",37,"Ipsos","National",2024-08-07,-0.9,"REP","Probability Panel",1342
+"628",47,"Ipsos","National",2024-08-07,-0.9,"REP","Probability Panel",1342
+"629",57.5,"Emerson","Montana",2024-08-06,-1.1,"REP","Online Panel/Text-to-Web",1000
+"630",53.5,"Emerson","Montana",2024-08-06,-1.1,"REP","Online Panel/Text-to-Web",1000
+"631",43,"YouGov","National",2024-08-06,-1.1,"REP","Online Panel",1413
+"632",45,"SurveyUSA","National",2024-08-05,-1.3,"REP","Online Panel",1510
+"633",48,"Marist","National",2024-08-04,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1513
+"634",45,"Marist","National",2024-08-04,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1513
+"635",48,"Hart/POS","National",2024-08-04,-0.7,"REP","Live Phone",1001
+"636",49,"YouGov","National",2024-08-02,-1.1,"REP","Online Panel",3092
+"637",47,"YouGov","National",2024-08-02,-1.1,"REP","Online Panel",3092
+"638",43,"UMass Amherst/YouGov","National",2024-08-01,-0.4,"REP","Online Panel",1000
+"639",39,"Siena","New York",2024-08-01,-0.8,"REP","Live Phone",1199
+"640",37,"Siena","New York",2024-08-01,-0.8,"REP","Live Phone",1199
+"641",50,"Marquette Law School","Wisconsin",2024-08-01,-1.1,"REP","Live Phone/Email",877
+"642",49,"Marquette Law School","Wisconsin",2024-08-01,-1.1,"REP","Live Phone/Email",801
+"643",43,"Marquette Law School","Wisconsin",2024-08-01,-1.1,"REP","Live Phone/Email",877
+"644",45,"Marquette Law School","Wisconsin",2024-08-01,-1.1,"REP","Live Phone/Email",801
+"645",48,"Marquette Law School","National",2024-08-01,-1.1,"REP","Probability Panel",879
+"646",47,"Marquette Law School","National",2024-08-01,-1.1,"REP","Probability Panel",683
+"647",41,"Marquette Law School","National",2024-08-01,-1.1,"REP","Probability Panel",879
+"648",42,"Marquette Law School","National",2024-08-01,-1.1,"REP","Probability Panel",683
+"649",44,"YouGov","National",2024-07-30,-1.1,"REP","Online Panel",1434
+"650",45,"Civiqs","National",2024-07-30,-0.2,"REP","Online Panel",1123
+"651",46,"GQR","Pennsylvania",2024-07-30,0.1,"REP","Live Phone",500
+"652",42,"Ipsos","National",2024-07-28,-0.9,"REP","Probability Panel",876
+"653",47.6,"Emerson","New Hampshire",2024-07-28,-1.1,"REP","Online Panel/Text-to-Web",1000
+"654",41.4,"Emerson","New Hampshire",2024-07-28,-1.1,"REP","Online Panel/Text-to-Web",1000
+"655",41,"Leger","National",2024-07-28,0,"REP","Online Panel",786
+"656",49,"U. North Florida","Florida",2024-07-27,-0.6,"REP","Live Phone/Text-to-Web",774
+"657",44,"St. Anselm","New Hampshire",2024-07-25,-0.5,"REP","Online Panel",2083
+"658",38,"Ipsos","National",2024-07-25,-0.9,"REP","Probability Panel",1238
+"659",40,"U. New Hampshire","Maine",2024-07-25,-0.3,"REP","Online Panel/Text-to-Web",1445
+"660",45,"U. New Hampshire","Maine",2024-07-25,-0.3,"REP","Online Panel/Text-to-Web",1445
+"661",43,"U. New Hampshire","New Hampshire",2024-07-25,-0.3,"REP","Online Panel/Text-to-Web",2875
+"662",46,"U. New Hampshire","New Hampshire",2024-07-25,-0.3,"REP","Online Panel/Text-to-Web",2875
+"663",40,"SurveyUSA","Minnesota",2024-07-25,-1.3,"REP","Online Panel",656
+"664",50.1,"AtlasIntel","National",2024-07-25,-0.8,"REP","Online Ad",1980
+"665",47.7,"AtlasIntel","National",2024-07-25,-0.8,"REP","Online Ad",1980
+"666",42,"Angus Reid","National",2024-07-25,-0.1,"REP","Online Panel",1743
+"667",36,"U. New Hampshire","Maine CD-1",2024-07-25,-0.3,"REP","Online Panel/Text-to-Web",732
+"668",39,"U. New Hampshire","Maine CD-1",2024-07-25,-0.3,"REP","Online Panel/Text-to-Web",732
+"669",44,"U. New Hampshire","Maine CD-2",2024-07-25,-0.3,"REP","Online Panel/Text-to-Web",701
+"670",51,"U. New Hampshire","Maine CD-2",2024-07-25,-0.3,"REP","Online Panel/Text-to-Web",701
+"671",48,"Siena/NYT","National",2024-07-24,-1.5,"REP","Live Phone",1142
+"672",48,"Siena/NYT","National",2024-07-24,-1.5,"REP","Live Phone",1142
+"673",42,"Siena/NYT","National",2024-07-24,-1.5,"REP","Live Phone",1142
+"674",43,"Siena/NYT","National",2024-07-24,-1.5,"REP","Live Phone",1142
+"675",39,"SurveyMonkey","National",2024-07-24,0.2,"REP","Online Panel",5265
+"676",46,"Beacon/Shaw","Wisconsin",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1046
+"677",50,"Beacon/Shaw","Wisconsin",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1046
+"678",50,"Beacon/Shaw","Wisconsin",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1046
+"679",49,"Beacon/Shaw","Wisconsin",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1046
+"680",43,"Beacon/Shaw","Pennsylvania",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1034
+"681",49,"Beacon/Shaw","Pennsylvania",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1034
+"682",49,"Beacon/Shaw","Pennsylvania",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1034
+"683",44,"Beacon/Shaw","Pennsylvania",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1034
+"684",41,"Beacon/Shaw","Minnesota",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1071
+"685",46,"Beacon/Shaw","Minnesota",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1071
+"686",46,"Beacon/Shaw","Minnesota",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1071
+"687",45,"Beacon/Shaw","Minnesota",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1071
+"688",45,"Beacon/Shaw","Michigan",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1012
+"689",49,"Beacon/Shaw","Michigan",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1012
+"690",46,"Beacon/Shaw","Michigan",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1012
+"691",48,"Beacon/Shaw","Michigan",2024-07-24,-1.1,"REP","Live Phone/Text-to-Web",1012
+"692",39,"Ipsos","National",2024-07-23,-0.9,"REP","Probability Panel",1241
+"693",42,"Ipsos","National",2024-07-23,-0.9,"REP","Probability Panel",1018
+"694",34,"Ipsos","National",2024-07-23,-0.9,"REP","Probability Panel",1241
+"695",38,"Ipsos","National",2024-07-23,-0.9,"REP","Probability Panel",1018
+"696",52.6,"Emerson","Arizona",2024-07-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",800
+"697",47.5,"Emerson","Arizona",2024-07-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",800
+"698",51.1,"Emerson","Georgia",2024-07-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",800
+"699",45.9,"Emerson","Georgia",2024-07-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",800
+"700",50.9,"Emerson","Michigan",2024-07-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",800
+"701",44.1,"Emerson","Michigan",2024-07-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",800
+"702",49.4,"Emerson","Wisconsin",2024-07-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",845
+"703",44.9,"Emerson","Wisconsin",2024-07-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",845
+"704",51.1,"Emerson","Pennsylvania",2024-07-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",850
+"705",46.1,"Emerson","Pennsylvania",2024-07-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",850
+"706",46,"YouGov","National",2024-07-23,-1.1,"REP","Online Panel",1155
+"707",44,"YouGov","National",2024-07-23,-1.1,"REP","Online Panel",1435
+"708",46,"Marist","National",2024-07-22,-0.9,"REP","Online Panel",1117
+"709",42,"Marist","National",2024-07-22,-0.9,"REP","Online Panel",1117
+"710",43,"YouGov","National",2024-07-22,-1.1,"REP","Online Panel",1178
+"711",45,"YouGov","National",2024-07-22,-1.1,"REP","Online Panel",1115
+"712",43,"YouGov","National",2024-07-22,-1.1,"REP","Online Panel",1178
+"713",46,"YouGov","National",2024-07-22,-1.1,"REP","Online Panel",1178
+"714",46,"YouGov","National",2024-07-22,-1.1,"REP","Online Panel",1178
+"715",46,"YouGov","National",2024-07-22,-1.1,"REP","Online Panel",1178
+"716",46,"YouGov","National",2024-07-22,-1.1,"REP","Online Panel",1178
+"717",49,"Echelon Insights","National",2024-07-21,-0.8,"REP","Online Panel",982
+"718",48,"Echelon Insights","National",2024-07-21,-0.8,"REP","Online Panel",982
+"719",43,"Echelon Insights","National",2024-07-21,-0.8,"REP","Online Panel",982
+"720",49,"Echelon Insights","National",2024-07-21,-0.8,"REP","Online Panel",982
+"721",48,"Echelon Insights","National",2024-07-21,-0.8,"REP","Online Panel",982
+"722",50,"Echelon Insights","National",2024-07-21,-0.8,"REP","Online Panel",982
+"723",48,"Quinnipiac","National",2024-07-21,-0.5,"REP","Live Phone",1257
+"724",44,"Quinnipiac","National",2024-07-21,-0.5,"REP","Live Phone",1257
+"725",49,"Quinnipiac","National",2024-07-21,-0.5,"REP","Live Phone",1257
+"726",45,"Quinnipiac","National",2024-07-21,-0.5,"REP","Live Phone",1257
+"727",52,"YouGov","National",2024-07-18,-1.1,"REP","Online Panel",2241
+"728",51,"YouGov","National",2024-07-18,-1.1,"REP","Online Panel",2240
+"729",29,"Suffolk","Massachusetts",2024-07-18,-1,"REP","Live Phone",500
+"730",48.3,"U. Georgia SPIA","Georgia",2024-07-18,-0.2,"REP","Live Phone",1000
+"731",45.4,"U. Georgia SPIA","Georgia",2024-07-18,-0.2,"REP","Live Phone",1000
+"732",50.5,"U. Georgia SPIA","Georgia",2024-07-18,-0.2,"REP","Live Phone",1000
+"733",38,"DHM Research","Washington",2024-07-17,-0.2,"REP","Online Panel",500
+"734",40,"DHM Research","Washington",2024-07-17,-0.2,"REP","Online Panel",500
+"735",38,"DHM Research","Washington",2024-07-17,-0.2,"REP","Online Panel",500
+"736",38,"DHM Research","Washington",2024-07-17,-0.2,"REP","Online Panel",500
+"737",37,"DHM Research","Washington",2024-07-17,-0.2,"REP","Online Panel",500
+"738",43,"Ipsos","National",2024-07-16,-0.9,"REP","Probability Panel",992
+"739",39,"Ipsos","National",2024-07-16,-0.9,"REP","Probability Panel",1202
+"740",36,"Ipsos","National",2024-07-16,-0.9,"REP","Probability Panel",1202
+"741",40,"Ipsos","National",2024-07-16,-0.9,"REP","Probability Panel",992
+"742",40,"Ipsos","National",2024-07-16,-0.9,"REP","Probability Panel",1202
+"743",44,"Ipsos","National",2024-07-16,-0.9,"REP","Probability Panel",992
+"744",46.2,"Emerson","National",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",2000
+"745",43.8,"Emerson","National",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",2000
+"746",46.9,"Emerson","Arizona",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"747",45.6,"Emerson","Arizona",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"748",47.3,"Emerson","Georgia",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"749",43.7,"Emerson","Georgia",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"750",45.1,"Emerson","Michigan",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"751",42.6,"Emerson","Michigan",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"752",45.6,"Emerson","Nevada",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"753",42.9,"Emerson","Nevada",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"754",47.7,"Emerson","North Carolina",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"755",47,"Emerson","North Carolina",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"756",47.6,"Emerson","Pennsylvania",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"757",45.9,"Emerson","Pennsylvania",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"758",47.6,"Emerson","Wisconsin",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"759",45.5,"Emerson","Wisconsin",2024-07-16,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"760",43,"YouGov","National",2024-07-16,-1.1,"REP","Online Panel",1404
+"761",44,"YouGov","National",2024-07-16,-1.1,"REP","Online Panel",1404
+"762",46,"Civiqs","Pennsylvania",2024-07-16,-0.2,"REP","Online Panel/Online Ad",536
+"763",46,"Civiqs","Pennsylvania",2024-07-16,-0.2,"REP","Online Panel/Online Ad",536
+"764",47,"Civiqs","Wisconsin",2024-07-16,-0.2,"REP","Online Panel/Online Ad",514
+"765",48,"Civiqs","Wisconsin",2024-07-16,-0.2,"REP","Online Panel/Online Ad",514
+"766",46,"Civiqs","Michigan",2024-07-16,-0.2,"REP","Online Panel/Online Ad",532
+"767",46,"Civiqs","Michigan",2024-07-16,-0.2,"REP","Online Panel/Online Ad",532
+"768",50.4,"Emerson","Virginia",2024-07-15,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"769",42.9,"Emerson","Virginia",2024-07-15,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"770",46.7,"Emerson","Virginia",2024-07-15,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"771",44,"SurveyUSA","National",2024-07-15,-1.3,"REP","Online Panel",1098
+"772",45,"SurveyUSA","National",2024-07-15,-1.3,"REP","Online Panel",1098
+"773",45,"SurveyUSA","National",2024-07-15,-1.3,"REP","Online Panel",1098
+"774",46,"SurveyUSA","National",2024-07-15,-1.3,"REP","Online Panel",1098
+"775",36,"SurveyUSA","Washington",2024-07-13,-1.3,"REP","Online Panel",708
+"776",36,"SurveyUSA","Washington",2024-07-13,-1.3,"REP","Online Panel",708
+"777",44,"Siena/NYT","Virginia",2024-07-12,-1.5,"REP","Live Phone",661
+"778",45,"Siena/NYT","Virginia",2024-07-12,-1.5,"REP","Live Phone",661
+"779",36,"Siena/NYT","Virginia",2024-07-12,-1.5,"REP","Live Phone",661
+"780",38,"Siena/NYT","Virginia",2024-07-12,-1.5,"REP","Live Phone",661
+"781",44,"Siena/NYT","Virginia",2024-07-12,-1.5,"REP","Live Phone",661
+"782",44,"Siena/NYT","Virginia",2024-07-12,-1.5,"REP","Live Phone",661
+"783",38,"Siena/NYT","Virginia",2024-07-12,-1.5,"REP","Live Phone",661
+"784",39,"Siena/NYT","Virginia",2024-07-12,-1.5,"REP","Live Phone",661
+"785",48,"Siena/NYT","Pennsylvania",2024-07-11,-1.5,"REP","Live Phone",872
+"786",48,"Siena/NYT","Pennsylvania",2024-07-11,-1.5,"REP","Live Phone",872
+"787",41,"Siena/NYT","Pennsylvania",2024-07-11,-1.5,"REP","Live Phone",872
+"788",42,"Siena/NYT","Pennsylvania",2024-07-11,-1.5,"REP","Live Phone",872
+"789",48,"Siena/NYT","Pennsylvania",2024-07-11,-1.5,"REP","Live Phone",872
+"790",48,"Siena/NYT","Pennsylvania",2024-07-11,-1.5,"REP","Live Phone",872
+"791",42,"Siena/NYT","Pennsylvania",2024-07-11,-1.5,"REP","Live Phone",872
+"792",43,"Siena/NYT","Pennsylvania",2024-07-11,-1.5,"REP","Live Phone",872
+"793",46,"Noble Predictive Insights","National",2024-07-11,-0.4,"REP","Online Panel/Text-to-Web",2295
+"794",43,"Noble Predictive Insights","National",2024-07-11,-0.4,"REP","Online Panel/Text-to-Web",2295
+"795",48,"Noble Predictive Insights","National",2024-07-11,-0.4,"REP","Online Panel/Text-to-Web",2295
+"796",45,"Noble Predictive Insights","National",2024-07-11,-0.4,"REP","Online Panel/Text-to-Web",2535
+"797",42,"Noble Predictive Insights","National",2024-07-11,-0.4,"REP","Online Panel/Text-to-Web",2535
+"798",47,"Noble Predictive Insights","National",2024-07-11,-0.4,"REP","Online Panel/Text-to-Web",2535
+"799",48,"Marist","National",2024-07-10,-0.9,"REP","Live Phone/Online Panel",1174
+"800",43,"Marist","National",2024-07-10,-0.9,"REP","Live Phone/Online Panel",1174
+"801",49,"Marist","National",2024-07-10,-0.9,"REP","Live Phone/Online Panel",1174
+"802",49,"Marist","National",2024-07-10,-0.9,"REP","Live Phone/Online Panel",1174
+"803",48,"Marist","National",2024-07-10,-0.9,"REP","Live Phone/Online Panel",1174
+"804",44,"Beacon/Shaw","National",2024-07-10,-1.1,"REP","Live Phone/Text-to-Web",1210
+"805",49,"Beacon/Shaw","National",2024-07-10,-1.1,"REP","Live Phone/Text-to-Web",1210
+"806",49,"Beacon/Shaw","National",2024-07-10,-1.1,"REP","Live Phone/Text-to-Web",1210
+"807",49,"Beacon/Shaw","National",2024-07-10,-1.1,"REP","Live Phone/Text-to-Web",1210
+"808",48,"Beacon/Shaw","National",2024-07-10,-1.1,"REP","Live Phone/Text-to-Web",1210
+"809",51.4,"Cygnal","Iowa",2024-07-09,-1.1,"REP","Online Panel/Text-to-Web",600
+"810",43,"YouGov","National",2024-07-09,-1.1,"REP","Online Panel",1443
+"811",42,"YouGov","National",2024-07-09,-1.1,"REP","Online Panel",1443
+"812",45,"Hart/POS","National",2024-07-09,-0.7,"REP","Live Phone",800
+"813",40,"Hart/POS","National",2024-07-09,-0.7,"REP","Live Phone",800
+"814",47,"Hart/POS","National",2024-07-09,-0.7,"REP","Live Phone",800
+"815",46,"Ipsos","National",2024-07-09,-0.9,"REP","Probability Panel",2041
+"816",43,"Ipsos","National",2024-07-09,-0.9,"REP","Probability Panel",2041
+"817",47,"Ipsos","National",2024-07-09,-0.9,"REP","Probability Panel",2041
+"818",50.2,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"819",43.7,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"820",49,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"821",48.3,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"822",47.8,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"823",48.9,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"824",48,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"825",48.3,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"826",46.9,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"827",48.6,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"828",46.3,"Emerson","National",2024-07-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1370
+"829",48,"Echelon Insights","Arizona",2024-07-08,-0.8,"REP","Online Panel",601
+"830",41,"Echelon Insights","Arizona",2024-07-08,-0.8,"REP","Online Panel",601
+"831",49,"Echelon Insights","Georgia",2024-07-08,-0.8,"REP","Online Panel",608
+"832",45,"Echelon Insights","Georgia",2024-07-08,-0.8,"REP","Online Panel",608
+"833",48,"Echelon Insights","Michigan",2024-07-08,-0.8,"REP","Online Panel",607
+"834",43,"Echelon Insights","Michigan",2024-07-08,-0.8,"REP","Online Panel",607
+"835",47,"Echelon Insights","North Carolina",2024-07-08,-0.8,"REP","Online Panel",610
+"836",43,"Echelon Insights","North Carolina",2024-07-08,-0.8,"REP","Online Panel",610
+"837",47,"Echelon Insights","Pennsylvania",2024-07-08,-0.8,"REP","Online Panel",612
+"838",42,"Echelon Insights","Pennsylvania",2024-07-08,-0.8,"REP","Online Panel",612
+"839",47,"Echelon Insights","Wisconsin",2024-07-08,-0.8,"REP","Online Panel",617
+"840",43,"Echelon Insights","Wisconsin",2024-07-08,-0.8,"REP","Online Panel",617
+"841",50,"Echelon Insights","Nevada",2024-07-08,-0.8,"REP","Online Panel",402
+"842",45,"Echelon Insights","Nevada",2024-07-08,-0.8,"REP","Online Panel",402
+"843",44,"Pew","National",2024-07-07,-0.4,"REP","Probability Panel",7729
+"844",50,"Pew","National",2024-07-07,-0.4,"REP","Probability Panel",7729
+"845",39,"Virginia Commonwealth U.","Virginia",2024-07-03,-0.1,"REP","Live Phone",809
+"846",38.6,"Virginia Commonwealth U.","Virginia",2024-07-03,-0.1,"REP","Live Phone",755
+"847",40,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",892
+"848",39,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",892
+"849",43,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",892
+"850",40,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",892
+"851",41,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",892
+"852",40,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",892
+"853",42,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",892
+"854",36,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",1070
+"855",39,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",1070
+"856",35,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",1070
+"857",38,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",1070
+"858",37,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",1070
+"859",38,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",1070
+"860",37,"Ipsos","National",2024-07-02,-0.9,"REP","Probability Panel",1070
+"861",42,"YouGov","National",2024-07-02,-1.1,"REP","Online Panel",1392
+"862",50,"YouGov","National",2024-07-02,-1.1,"REP","Online Panel",2815
+"863",44,"YouGov","National",2024-07-02,-1.1,"REP","Online Panel",2815
+"864",49,"Siena/NYT","National",2024-07-02,-1.5,"REP","Live Phone",1532
+"865",40,"Siena/NYT","National",2024-07-02,-1.5,"REP","Live Phone",1532
+"866",49,"Siena/NYT","National",2024-07-02,-1.5,"REP","Live Phone",1532
+"867",42,"Siena/NYT","National",2024-07-02,-1.5,"REP","Live Phone",1532
+"868",30,"PPIC","California",2024-07-02,-0.4,"REP","Probability Panel",1261
+"869",44,"YouGov","National",2024-07-01,-1.1,"REP","Online Panel",1176
+"870",45,"YouGov","National",2024-07-01,-1.1,"REP","Online Panel",1176
+"871",47,"YouGov","National",2024-07-01,-1.1,"REP","Online Panel",1176
+"872",49,"University of Houston/Texas Southern University","Texas",2024-07-01,-0.3,"REP","Online Panel",1484
+"873",41.4,"Suffolk","National",2024-06-30,-1,"REP","Live Phone",1000
+"874",49,"CNN/SSRS","National",2024-06-30,-0.6,"REP","Probability Panel",1274
+"875",41,"CNN/SSRS","National",2024-06-30,-0.6,"REP","Probability Panel",1274
+"876",47,"CNN/SSRS","National",2024-06-30,-0.6,"REP","Probability Panel",1274
+"877",48,"CNN/SSRS","National",2024-06-30,-0.6,"REP","Probability Panel",1274
+"878",47,"CNN/SSRS","National",2024-06-30,-0.6,"REP","Probability Panel",1274
+"879",47,"CNN/SSRS","National",2024-06-30,-0.6,"REP","Probability Panel",1274
+"880",44,"St. Anselm","New Hampshire",2024-06-29,-0.5,"REP","Text-to-Web",1746
+"881",45,"SurveyUSA","National",2024-06-28,-1.3,"REP","Online Panel",2315
+"882",48,"Data for Progress","National",2024-06-28,-1.2,"REP","Online Panel",1011
+"883",48,"Data for Progress","National",2024-06-28,-1.2,"REP","Online Panel",1011
+"884",46,"Data for Progress","National",2024-06-28,-1.2,"REP","Online Panel",1011
+"885",47,"Data for Progress","National",2024-06-28,-1.2,"REP","Online Panel",1011
+"886",46,"Data for Progress","National",2024-06-28,-1.2,"REP","Online Panel",1011
+"887",47,"Data for Progress","National",2024-06-28,-1.2,"REP","Online Panel",1011
+"888",46,"Data for Progress","National",2024-06-28,-1.2,"REP","Online Panel",1011
+"889",46,"Data for Progress","National",2024-06-28,-1.2,"REP","Online Panel",1011
+"890",46,"Data for Progress","National",2024-06-28,-1.2,"REP","Online Panel",1011
+"891",45,"Leger","National",2024-06-28,0,"REP","Online Panel",841
+"892",45.5,"AtlasIntel","National",2024-06-28,-0.8,"REP","Online Ad",1634
+"893",42,"YouGov","National",2024-06-25,-1.1,"REP","Online Panel",1406
+"894",48,"Siena/NYT","National",2024-06-25,-1.5,"REP","Live Phone",1226
+"895",48,"Siena/NYT","National",2024-06-25,-1.5,"REP","Live Phone",1226
+"896",39,"Siena/NYT","National",2024-06-25,-1.5,"REP","Live Phone",1226
+"897",40,"Siena/NYT","National",2024-06-25,-1.5,"REP","Live Phone",1226
+"898",41,"Leger","National",2024-06-24,0,"REP","Online Panel",878
+"899",38,"Leger","National",2024-06-24,0,"REP","Online Panel",878
+"900",49,"Quinnipiac","National",2024-06-24,-0.5,"REP","Live Phone",1405
+"901",43,"Quinnipiac","National",2024-06-24,-0.5,"REP","Live Phone",1405
+"902",41.9,"YouGov","National",2024-06-24,-1.1,"REP","Online Panel",2750
+"903",50,"YouGov","National",2024-06-21,-1.1,"REP","Online Panel",1878
+"904",50,"Marquette Law School","Wisconsin",2024-06-20,-1.1,"REP","Live Phone/Email",871
+"905",49,"Marquette Law School","Wisconsin",2024-06-20,-1.1,"REP","Live Phone/Email",784
+"906",43,"Marquette Law School","Wisconsin",2024-06-20,-1.1,"REP","Live Phone/Email",871
+"907",44,"Marquette Law School","Wisconsin",2024-06-20,-1.1,"REP","Live Phone/Email",784
+"908",42.7,"U. Georgia SPIA","Georgia",2024-06-20,-0.2,"REP","Live Phone",1000
+"909",56.7,"Emerson","Missouri",2024-06-19,-1.1,"REP","IVR/Online Panel",1000
+"910",50.4,"Emerson","Missouri",2024-06-19,-1.1,"REP","IVR/Online Panel",1000
+"911",42,"YouGov","National",2024-06-18,-1.1,"REP","Online Panel",1396
+"912",45,"YouGov Blue","National",2024-06-18,-1.1,"REP","Online Panel",2015
+"913",52,"Emerson","Arizona",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"914",42.7,"Emerson","Arizona",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"915",49.7,"Emerson","Nevada",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"916",42.1,"Emerson","Nevada",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"917",50.7,"Emerson","Michigan",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"918",44,"Emerson","Michigan",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"919",49,"Emerson","Minnesota",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"920",41.6,"Emerson","Minnesota",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"921",51.1,"Emerson","Pennsylvania",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"922",44.8,"Emerson","Pennsylvania",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"923",51.3,"Emerson","Wisconsin",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"924",43.8,"Emerson","Wisconsin",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"925",52.3,"Emerson","Georgia",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"926",44.9,"Emerson","Georgia",2024-06-18,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"927",42,"Beacon/Shaw","National",2024-06-17,-1.1,"REP","Live Phone/Text-to-Web",1095
+"928",48,"Beacon/Shaw","National",2024-06-17,-1.1,"REP","Live Phone/Text-to-Web",1095
+"929",39,"Siena","New York",2024-06-17,-0.8,"REP","Live Phone/Online Panel/Text-to-Web",805
+"930",42,"Innovative Research Group","National",2024-06-17,-0.1,"REP","Online Panel",2000
+"931",41,"SurveyUSA","Minnesota",2024-06-16,-1.3,"REP","Online Panel",626
+"932",39,"YouGov","National",2024-06-14,-1.1,"REP","Online Panel",1011
+"933",50,"Selzer","Iowa",2024-06-14,-1.2,"REP","Live Phone",632
+"934",41,"Ipsos","National",2024-06-12,-0.9,"REP","Probability Panel",930
+"935",36,"Ipsos","National",2024-06-12,-0.9,"REP","Probability Panel",1119
+"936",33,"Ipsos","National",2024-06-12,-0.9,"REP","Probability Panel",1119
+"937",38,"Ipsos","National",2024-06-12,-0.9,"REP","Probability Panel",930
+"938",47,"Echelon Insights","National",2024-06-12,-0.8,"REP","Online Panel",1013
+"939",43,"Echelon Insights","National",2024-06-12,-0.8,"REP","Online Panel",1013
+"940",49,"Marist","National",2024-06-12,-0.9,"REP","Live Phone/Text/Online Panel",1184
+"941",42,"Marist","National",2024-06-12,-0.9,"REP","Live Phone/Text/Online Panel",1184
+"942",42,"YouGov","National",2024-06-11,-1.1,"REP","Online Panel",1399
+"943",45,"Civiqs","National",2024-06-11,-0.2,"REP","Online Panel",1140
+"944",33,"SSRS","National",2024-06-10,-0.2,"REP","Probability Panel",1031
+"945",43,"YouGov","Texas",2024-06-09,-1.1,"REP","Online Panel",1200
+"946",46,"YouGov","Texas",2024-06-09,-1.1,"REP","Online Panel",1200
+"947",50,"YouGov","National",2024-06-07,-1.1,"REP","Online Panel",1359
+"948",44,"YouGov","National",2024-06-06,-1.1,"REP","Online Panel",1239
+"949",43,"YouGov","National",2024-06-06,-1.1,"REP","Online Panel",1239
+"950",48,"Marist","Ohio",2024-06-06,-0.9,"REP","Live Phone/Online Panel/Text",1137
+"951",47,"Marist","Pennsylvania",2024-06-06,-0.9,"REP","Live Phone/Online Panel/Text",1181
+"952",49.8,"Emerson","National",2024-06-05,-1.1,"REP","IVR/Online Panel",1000
+"953",44.4,"Emerson","National",2024-06-05,-1.1,"REP","IVR/Online Panel",1000
+"954",40.6,"Mason-Dixon","Minnesota",2024-06-05,-1.1,"REP","Live Phone",800
+"955",55,"Kaplan Strategies","West Virginia",2024-06-04,-0.9,"REP","Online Panel/Text-to-Web",464
+"956",42,"YouGov","National",2024-06-04,-1.1,"REP","Online Panel",1566
+"957",48.2,"Mitchell","Michigan",2024-06-03,-0.2,"REP","Text-to-Web",710
+"958",46.3,"Mitchell","Michigan",2024-06-03,-0.2,"REP","Text-to-Web",710
+"959",48,"Beacon/Shaw","Virginia",2024-06-03,-1.1,"REP","Live Phone/Text-to-Web",1107
+"960",41,"Beacon/Shaw","Virginia",2024-06-03,-1.1,"REP","Live Phone/Text-to-Web",1107
+"961",50,"Beacon/Shaw","Florida",2024-06-03,-1.1,"REP","Live Phone/Text-to-Web",1075
+"962",47,"Beacon/Shaw","Florida",2024-06-03,-1.1,"REP","Live Phone/Text-to-Web",1075
+"963",50,"Beacon/Shaw","Nevada",2024-06-03,-1.1,"REP","Live Phone/Text-to-Web",1069
+"964",45,"Beacon/Shaw","Nevada",2024-06-03,-1.1,"REP","Live Phone/Text-to-Web",1069
+"965",51,"Beacon/Shaw","Arizona",2024-06-03,-1.1,"REP","Live Phone/Text-to-Web",1095
+"966",46,"Beacon/Shaw","Arizona",2024-06-03,-1.1,"REP","Live Phone/Text-to-Web",1095
+"967",48,"East Carolina University","North Carolina",2024-06-03,-0.5,"REP","IVR/Online Panel/Text-to-Web",1332
+"968",49,"Quinnipiac","Georgia",2024-06-03,-0.5,"REP","Live Phone",1203
+"969",43,"Quinnipiac","Georgia",2024-06-03,-0.5,"REP","Live Phone",1203
+"970",31,"PPIC","California",2024-06-02,-0.4,"REP","Probability Panel",1098
+"971",39,"Ipsos","National",2024-05-31,-0.9,"REP","Probability Panel",2135
+"972",36,"Ipsos","National",2024-05-31,-0.9,"REP","Probability Panel",2556
+"973",37,"Ipsos","National",2024-05-31,-0.9,"REP","Probability Panel",2135
+"974",33,"Ipsos","National",2024-05-31,-0.9,"REP","Probability Panel",2556
+"975",34,"SurveyMonkey","National",2024-05-31,0.2,"REP","Online Panel",5893
+"976",27,"UMass Amherst/YouGov","Massachusetts",2024-05-30,-0.4,"REP","Online Panel",700
+"977",37.6,"Emerson","New York",2024-05-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"978",44.8,"Emerson","New York",2024-05-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"979",41,"YouGov","National",2024-05-28,-1.1,"REP","Online Panel",1547
+"980",41,"Emerson","National",2024-05-27,-1.1,"REP","Online Panel/Text-to-Web",1000
+"981",43,"Leger","National",2024-05-26,0,"REP","Online Panel",883
+"982",39,"Leger","National",2024-05-26,0,"REP","Online Panel",883
+"983",50.1,"Emerson","National",2024-05-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",1100
+"984",43.8,"Emerson","National",2024-05-23,-1.1,"REP","IVR/Online Panel/Text-to-Web",1100
+"985",48,"Marist","National",2024-05-23,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1122
+"986",44,"Marist","National",2024-05-23,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1122
+"987",49,"Mitchell","Michigan",2024-05-21,-0.2,"REP","Text-to-Web",697
+"988",46,"Mitchell","Michigan",2024-05-21,-0.2,"REP","Text-to-Web",697
+"989",41,"YouGov","National",2024-05-21,-1.1,"REP","Online Panel",1560
+"990",42,"Roanoke College","Virginia",2024-05-21,-0.4,"REP","Live Phone/Online Panel",711
+"991",38,"Roanoke College","Virginia",2024-05-21,-0.4,"REP","Live Phone/Online Panel",711
+"992",47,"Quinnipiac","National",2024-05-20,-0.5,"REP","Live Phone",1374
+"993",38,"Quinnipiac","National",2024-05-20,-0.5,"REP","Live Phone",1374
+"994",26,"U. New Hampshire","Massachusetts",2024-05-20,-0.3,"REP","Probability Panel",526
+"995",32,"U. New Hampshire","Massachusetts",2024-05-20,-0.3,"REP","Probability Panel",526
+"996",33,"U. New Hampshire","Rhode Island",2024-05-20,-0.3,"REP","Probability Panel",538
+"997",40,"U. New Hampshire","Rhode Island",2024-05-20,-0.3,"REP","Probability Panel",538
+"998",41,"U. New Hampshire","New Hampshire",2024-05-20,-0.3,"REP","Probability Panel",1140
+"999",48,"U. New Hampshire","New Hampshire",2024-05-20,-0.3,"REP","Probability Panel",1140
+"1000",36.6,"Praecones Analytica","New Hampshire",2024-05-20,0,"REP","Online Panel",862
+"1001",49,"Echelon Insights","National",2024-05-16,-0.8,"REP","Online Panel",1023
+"1002",43,"Echelon Insights","National",2024-05-16,-0.8,"REP","Online Panel",1023
+"1003",54,"YouGov","Florida",2024-05-16,-1.1,"REP","Online Panel",1181
+"1004",49,"YouGov","Florida",2024-05-16,-1.1,"REP","Online Panel",1174
+"1005",52,"YouGov","Arizona",2024-05-16,-1.1,"REP","Online Panel",1193
+"1006",44,"YouGov","Arizona",2024-05-16,-1.1,"REP","Online Panel",1192
+"1007",38,"Siena","New York",2024-05-15,-0.8,"REP","Live Phone/Online Panel/Text-to-Web",1191
+"1008",50,"Marquette Law School","National",2024-05-15,-1.1,"REP","Probability Panel",902
+"1009",51,"Marquette Law School","National",2024-05-15,-1.1,"REP","Probability Panel",684
+"1010",40,"Marquette Law School","National",2024-05-15,-1.1,"REP","Probability Panel",902
+"1011",44,"Marquette Law School","National",2024-05-15,-1.1,"REP","Probability Panel",684
+"1012",42,"YouGov","National",2024-05-14,-1.1,"REP","Online Panel",1586
+"1013",46,"Ipsos","National",2024-05-14,-0.9,"REP","Probability Panel",3208
+"1014",38,"Ipsos","National",2024-05-14,-0.9,"REP","Probability Panel",3208
+"1015",36,"Ipsos","National",2024-05-14,-0.9,"REP","Probability Panel",3934
+"1016",35,"Ipsos","National",2024-05-14,-0.9,"REP","Probability Panel",3934
+"1017",44,"Noble Predictive Insights","Arizona",2024-05-14,-0.4,"REP","Online Panel",1003
+"1018",43,"Noble Predictive Insights","Arizona",2024-05-14,-0.4,"REP","Online Panel",1003
+"1019",36,"University of Massachusetts Lowell/YouGov","New Hampshire",2024-05-14,-1,"REP","Online Panel",600
+"1020",45,"YouGov","National",2024-05-13,-1.1,"REP","Online Panel",1201
+"1021",44,"YouGov","National",2024-05-13,-1.1,"REP","Online Panel",1201
+"1022",43,"Beacon/Shaw","National",2024-05-13,-1.1,"REP","Live Phone",1126
+"1023",49,"Beacon/Shaw","National",2024-05-13,-1.1,"REP","Live Phone",1126
+"1024",50,"Mason-Dixon","South Dakota",2024-05-13,-1.1,"REP","Live Phone",500
+"1025",35,"Ipsos","National",2024-05-13,-0.9,"REP","Probability Panel",1730
+"1026",48,"Ipsos","National",2024-05-13,-0.9,"REP","Probability Panel",1730
+"1027",42,"SurveyUSA","Minnesota",2024-05-11,-1.3,"REP","Online Panel",625
+"1028",43,"High Point University","North Carolina",2024-05-09,-0.4,"REP","Online Panel",1002
+"1029",44,"High Point University","North Carolina",2024-05-09,-0.4,"REP","Online Panel",804
+"1030",42,"Siena/NYT","Arizona",2024-05-09,-1.5,"REP","Live Phone",626
+"1031",49,"Siena/NYT","Arizona",2024-05-09,-1.5,"REP","Live Phone",626
+"1032",44,"Siena/NYT","Arizona",2024-05-09,-1.5,"REP","Live Phone",626
+"1033",49,"Siena/NYT","Arizona",2024-05-09,-1.5,"REP","Live Phone",626
+"1034",39,"Siena/NYT","Georgia",2024-05-09,-1.5,"REP","Live Phone",604
+"1035",49,"Siena/NYT","Georgia",2024-05-09,-1.5,"REP","Live Phone",604
+"1036",42,"Siena/NYT","Georgia",2024-05-09,-1.5,"REP","Live Phone",604
+"1037",50,"Siena/NYT","Georgia",2024-05-09,-1.5,"REP","Live Phone",604
+"1038",38,"Siena/NYT","Michigan",2024-05-09,-1.5,"REP","Live Phone",616
+"1039",49,"Siena/NYT","Michigan",2024-05-09,-1.5,"REP","Live Phone",616
+"1040",39,"Siena/NYT","Michigan",2024-05-09,-1.5,"REP","Live Phone",616
+"1041",46,"Siena/NYT","Michigan",2024-05-09,-1.5,"REP","Live Phone",616
+"1042",41,"Siena/NYT","Nevada",2024-05-09,-1.5,"REP","Live Phone",614
+"1043",50,"Siena/NYT","Nevada",2024-05-09,-1.5,"REP","Live Phone",614
+"1044",44,"Siena/NYT","Nevada",2024-05-09,-1.5,"REP","Live Phone",614
+"1045",51,"Siena/NYT","Nevada",2024-05-09,-1.5,"REP","Live Phone",614
+"1046",40,"Siena/NYT","Pennsylvania",2024-05-09,-1.5,"REP","Live Phone",1023
+"1047",47,"Siena/NYT","Pennsylvania",2024-05-09,-1.5,"REP","Live Phone",1023
+"1048",41,"Siena/NYT","Pennsylvania",2024-05-09,-1.5,"REP","Live Phone",1023
+"1049",48,"Siena/NYT","Pennsylvania",2024-05-09,-1.5,"REP","Live Phone",1023
+"1050",38,"Siena/NYT","Wisconsin",2024-05-09,-1.5,"REP","Live Phone",614
+"1051",45,"Siena/NYT","Wisconsin",2024-05-09,-1.5,"REP","Live Phone",614
+"1052",40,"Siena/NYT","Wisconsin",2024-05-09,-1.5,"REP","Live Phone",614
+"1053",47,"Siena/NYT","Wisconsin",2024-05-09,-1.5,"REP","Live Phone",614
+"1054",47,"SSRS","Tennessee",2024-05-09,-0.2,"REP","Live Phone",501
+"1055",34.5,"Emerson","Maryland",2024-05-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1115
+"1056",32.5,"Emerson","Maryland",2024-05-08,-1.1,"REP","IVR/Online Panel/Text-to-Web",1115
+"1057",43,"YouGov","National",2024-05-07,-1.1,"REP","Online Panel",1598
+"1058",44,"Ipsos","National",2024-05-06,-0.9,"REP","Probability Panel",407
+"1059",43,"Ipsos","National",2024-05-06,-0.9,"REP","Probability Panel",407
+"1060",44,"Quinnipiac","Wisconsin",2024-05-06,-0.5,"REP","Live Phone",1457
+"1061",39,"Quinnipiac","Wisconsin",2024-05-06,-0.5,"REP","Live Phone",1457
+"1062",42.6,"Cygnal","North Carolina",2024-05-05,-1.1,"REP","Live Phone",600
+"1063",37.1,"Suffolk","National",2024-05-03,-1,"REP","Live Phone",1000
+"1064",46,"Data for Progress","National",2024-05-02,-1.2,"REP","Online Panel",1240
+"1065",41,"Data for Progress","National",2024-05-02,-1.2,"REP","Online Panel",1240
+"1066",45,"Kaiser Family Foundation","National",2024-05-01,-0.3,"REP","Probability Panel",1243
+"1067",39,"Ipsos","National",2024-04-30,-0.9,"REP","Probability Panel",856
+"1068",37,"Ipsos","National",2024-04-30,-0.9,"REP","Probability Panel",1022
+"1069",38,"Ipsos","National",2024-04-30,-0.9,"REP","Probability Panel",856
+"1070",36,"Ipsos","National",2024-04-30,-0.9,"REP","Probability Panel",1022
+"1071",44,"YouGov","National",2024-04-30,-1.1,"REP","Online Panel",1479
+"1072",40,"Ipsos","National",2024-04-30,-0.9,"REP","Probability Panel",2260
+"1073",37,"Ipsos","National",2024-04-30,-0.9,"REP","Probability Panel",2260
+"1074",38.1,"Data Orbital","Arizona",2024-04-29,-0.9,"REP","Live Phone",550
+"1075",52.3,"Emerson","Arizona",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1076",43.6,"Emerson","Arizona",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1077",50.8,"Emerson","Georgia",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1078",45.1,"Emerson","Georgia",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1079",51.2,"Emerson","Pennsylvania",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1080",45,"Emerson","Pennsylvania",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1081",52.1,"Emerson","Michigan",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1082",43.2,"Emerson","Michigan",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1083",51.9,"Emerson","North Carolina",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1084",46.3,"Emerson","North Carolina",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1085",50.7,"Emerson","Nevada",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1086",42.1,"Emerson","Nevada",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1087",51.6,"Emerson","Wisconsin",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1088",44.7,"Emerson","Wisconsin",2024-04-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1089",43,"Leger","National",2024-04-28,0,"REP","Online Panel",887
+"1090",41,"Leger","National",2024-04-28,0,"REP","Online Panel",887
+"1091",48,"Marist","National",2024-04-25,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1109
+"1092",42,"Marist","National",2024-04-25,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1109
+"1093",50,"YouGov","Pennsylvania",2024-04-25,-1.1,"REP","Online Panel",1288
+"1094",49,"YouGov","Michigan",2024-04-25,-1.1,"REP","Online Panel",1262
+"1095",43,"YouGov","Michigan",2024-04-25,-1.1,"REP","Online Panel",1262
+"1096",50,"YouGov","Wisconsin",2024-04-25,-1.1,"REP","Online Panel",1226
+"1097",48,"YouGov","Wisconsin",2024-04-25,-1.1,"REP","Online Panel",1226
+"1098",44,"Muhlenberg","Pennsylvania",2024-04-25,-1,"REP","Live Phone",417
+"1099",35,"Muhlenberg","Pennsylvania",2024-04-25,-1,"REP","Live Phone",417
+"1100",43,"YouGov","National",2024-04-23,-1.1,"REP","Online Panel",1470
+"1101",49,"CNN/SSRS","National",2024-04-23,-0.6,"REP","Probability Panel",967
+"1102",42,"CNN/SSRS","National",2024-04-23,-0.6,"REP","Probability Panel",967
+"1103",44,"SurveyUSA","National",2024-04-22,-1.3,"REP","Online Panel",1109
+"1104",46,"SurveyUSA","National",2024-04-22,-1.3,"REP","Online Panel",1109
+"1105",45,"SurveyUSA","National",2024-04-22,-1.3,"REP","Online Panel",1109
+"1106",46,"SurveyUSA","National",2024-04-22,-1.3,"REP","Online Panel",1109
+"1107",46,"SurveyUSA","National",2024-04-22,-1.3,"REP","Online Panel",1109
+"1108",44,"SurveyUSA","National",2024-04-22,-1.3,"REP","Online Panel",1109
+"1109",46,"Quinnipiac","National",2024-04-22,-0.5,"REP","Live Phone",1429
+"1110",37,"Quinnipiac","National",2024-04-22,-0.5,"REP","Live Phone",1429
+"1111",45,"YouGov","Texas",2024-04-22,-1.1,"REP","Online Panel",1200
+"1112",48,"YouGov","Texas",2024-04-22,-1.1,"REP","Online Panel",1200
+"1113",47,"Kaplan Strategies","Arizona",2024-04-21,-0.9,"REP","Online Panel/Text-to-Web",874
+"1114",51,"Kaplan Strategies","Michigan",2024-04-21,-0.9,"REP","Online Panel/Text-to-Web",804
+"1115",46,"Kaplan Strategies","Pennsylvania",2024-04-21,-0.9,"REP","Online Panel/Text-to-Web",802
+"1116",48,"Kaplan Strategies","Wisconsin",2024-04-21,-0.9,"REP","Online Panel/Text-to-Web",802
+"1117",22,"Suffolk","Massachusetts",2024-04-20,-1,"REP","Live Phone",500
+"1118",47,"U. North Florida","National",2024-04-20,-0.6,"REP","Live Phone",745
+"1119",48,"Marist","National",2024-04-18,-0.9,"REP","Live Phone/Online Panel",1047
+"1120",38,"Marist","National",2024-04-18,-0.9,"REP","Live Phone/Online Panel",1047
+"1121",51.5,"Emerson","National",2024-04-17,-1.1,"REP","IVR/Online Panel",1308
+"1122",43.5,"Emerson","National",2024-04-17,-1.1,"REP","IVR/Online Panel",1308
+"1123",37,"Siena","New York",2024-04-17,-0.8,"REP","Live Phone/Online Panel/Text-to-Web",806
+"1124",44,"YouGov","National",2024-04-16,-1.1,"REP","Online Panel",1358
+"1125",45,"Civiqs","National",2024-04-16,-0.2,"REP","Online Panel/Online Ad",1161
+"1126",46,"Hart/POS","National",2024-04-16,-0.7,"REP","Live Phone",1000
+"1127",37,"Hart/POS","National",2024-04-16,-0.7,"REP","Live Phone",1000
+"1128",46,"Beacon/Shaw","Georgia",2024-04-16,-1.1,"REP","Live Phone/Text-to-Web",1128
+"1129",51,"Beacon/Shaw","Georgia",2024-04-16,-1.1,"REP","Live Phone/Text-to-Web",1128
+"1130",42,"Beacon/Shaw","Michigan",2024-04-16,-1.1,"REP","Live Phone/Text-to-Web",1126
+"1131",49,"Beacon/Shaw","Michigan",2024-04-16,-1.1,"REP","Live Phone/Text-to-Web",1126
+"1132",44,"Beacon/Shaw","Pennsylvania",2024-04-16,-1.1,"REP","Live Phone/Text-to-Web",1141
+"1133",48,"Beacon/Shaw","Pennsylvania",2024-04-16,-1.1,"REP","Live Phone/Text-to-Web",1141
+"1134",41,"Beacon/Shaw","Wisconsin",2024-04-16,-1.1,"REP","Live Phone/Text-to-Web",1198
+"1135",48,"Beacon/Shaw","Wisconsin",2024-04-16,-1.1,"REP","Live Phone/Text-to-Web",1198
+"1136",54,"Noble Predictive Insights","Utah",2024-04-16,-0.4,"REP","Online Panel",600
+"1137",47,"Noble Predictive Insights","Utah",2024-04-16,-0.4,"REP","Online Panel",600
+"1138",44,"YouGov","National",2024-04-15,-1.1,"REP","Online Panel",1171
+"1139",42,"YouGov","National",2024-04-15,-1.1,"REP","Online Panel",1171
+"1140",46,"Echelon Insights","National",2024-04-14,-0.8,"REP","Online Panel",1020
+"1141",40,"Echelon Insights","National",2024-04-14,-0.8,"REP","Online Panel",1020
+"1142",49,"Pew","National",2024-04-14,-0.4,"REP","Probability Panel",7166
+"1143",56.4,"Cygnal","Oklahoma",2024-04-12,-1.1,"REP","Online Panel",615
+"1144",60.6,"Cygnal","Oklahoma",2024-04-12,-1.1,"REP","Online Panel",615
+"1145",46,"Siena/NYT","National",2024-04-11,-1.5,"REP","Live Phone",1059
+"1146",42,"Siena/NYT","National",2024-04-11,-1.5,"REP","Live Phone",1059
+"1147",47,"Siena/NYT","National",2024-04-11,-1.5,"REP","Live Phone",1059
+"1148",43,"Siena/NYT","National",2024-04-11,-1.5,"REP","Live Phone",1059
+"1149",56.4,"Emerson","Florida",2024-04-10,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1150",49.2,"Emerson","Florida",2024-04-10,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1151",46.9,"Cygnal","National",2024-04-10,-1.1,"REP","Online Panel",1500
+"1152",41.5,"Cygnal","National",2024-04-10,-1.1,"REP","Online Panel",1500
+"1153",41.6,"Cygnal","National",2024-04-10,-1.1,"REP","Online Panel",1500
+"1154",51,"Marquette Law School","Wisconsin",2024-04-10,-1.1,"REP","Probability Panel",814
+"1155",51,"Marquette Law School","Wisconsin",2024-04-10,-1.1,"REP","Probability Panel",707
+"1156",41,"Marquette Law School","Wisconsin",2024-04-10,-1.1,"REP","Probability Panel",814
+"1157",42,"Marquette Law School","Wisconsin",2024-04-10,-1.1,"REP","Probability Panel",707
+"1158",43,"YouGov","National",2024-04-09,-1.1,"REP","Online Panel",1583
+"1159",43.3,"Cygnal","North Carolina",2024-04-08,-1.1,"REP","Live Phone/Text-to-Web",600
+"1160",37,"Ipsos","National",2024-04-08,-0.9,"REP","Probability Panel",833
+"1161",36,"Ipsos","National",2024-04-08,-0.9,"REP","Probability Panel",1021
+"1162",48,"Quinnipiac","North Carolina",2024-04-08,-0.5,"REP","Live Phone",1401
+"1163",41,"Quinnipiac","North Carolina",2024-04-08,-0.5,"REP","Live Phone",1401
+"1164",42,"University of Massachusetts Lowell/YouGov","National",2024-04-08,-1,"REP","Online Panel",1688
+"1165",43,"University of Massachusetts Lowell/YouGov","National",2024-04-08,-1,"REP","Online Panel",1688
+"1166",39,"Ipsos","Florida",2024-04-07,-0.9,"REP","Probability Panel",1014
+"1167",42,"SurveyUSA","Minnesota",2024-04-07,-1.3,"REP","Online Panel",608
+"1168",44,"YouGov Blue","National",2024-04-05,-1.1,"REP","Online Panel",4038
+"1169",42,"YouGov Blue","National",2024-04-05,-1.1,"REP","Online Panel",4038
+"1170",50.6,"Emerson","National",2024-04-03,-1.1,"REP","IVR/Online Panel/Email",1438
+"1171",43.2,"Emerson","National",2024-04-03,-1.1,"REP","IVR/Online Panel/Email",1438
+"1172",43,"YouGov","National",2024-04-02,-1.1,"REP","Online Panel",1604
+"1173",38,"Franklin and Marshall College","Pennsylvania",2024-03-31,-0.1,"REP","Mail-to-Web/Mail-to-Phone",431
+"1174",40,"Franklin and Marshall College","Pennsylvania",2024-03-31,-0.1,"REP","Mail-to-Web/Mail-to-Phone",430
+"1175",43,"High Point University","North Carolina",2024-03-30,-0.4,"REP","Online Panel",1016
+"1176",45,"High Point University","North Carolina",2024-03-30,-0.4,"REP","Online Panel",829
+"1177",46,"Data for Progress","National",2024-03-29,-1.2,"REP","Online Panel",1200
+"1178",42,"Data for Progress","National",2024-03-29,-1.2,"REP","Online Panel",1200
+"1179",39.4,"Emerson","New Jersey",2024-03-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1180",35.8,"Emerson","New Jersey",2024-03-29,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1181",28,"MassINC Polling Group","Massachusetts",2024-03-29,-0.8,"REP","Online Panel",1002
+"1182",48,"Marist","National",2024-03-28,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1199
+"1183",41,"Marist","National",2024-03-28,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1199
+"1184",50,"Marquette Law School","National",2024-03-28,-1.1,"REP","Probability Panel",868
+"1185",48,"Marquette Law School","National",2024-03-28,-1.1,"REP","Probability Panel",674
+"1186",41,"Marquette Law School","National",2024-03-28,-1.1,"REP","Probability Panel",868
+"1187",41,"Marquette Law School","National",2024-03-28,-1.1,"REP","Probability Panel",674
+"1188",44,"YouGov","National",2024-03-26,-1.1,"REP","Online Panel",1415
+"1189",47,"Leger","National",2024-03-25,0,"REP","Online Panel",786
+"1190",41,"Leger","National",2024-03-25,0,"REP","Online Panel",1000
+"1191",43,"Beacon/Shaw","National",2024-03-25,-1.1,"REP","Live Phone/Text-to-Web",1094
+"1192",50,"Beacon/Shaw","National",2024-03-25,-1.1,"REP","Live Phone/Text-to-Web",1094
+"1193",51,"Beacon/Shaw","National",2024-03-25,-1.1,"REP","Live Phone/Text-to-Web",1094
+"1194",45,"Quinnipiac","National",2024-03-25,-0.5,"REP","Live Phone",1407
+"1195",39,"Quinnipiac","National",2024-03-25,-0.5,"REP","Live Phone",1407
+"1196",31,"PPIC","California",2024-03-25,-0.4,"REP","Probability Panel",1084
+"1197",49,"Echelon Insights","National",2024-03-21,-0.8,"REP","Online Panel",1006
+"1198",43,"Echelon Insights","National",2024-03-21,-0.8,"REP","Online Panel",1006
+"1199",55,"Marist","Texas",2024-03-21,-0.9,"REP","Live Phone/Online Panel/Text",1117
+"1200",48,"Marist","Texas",2024-03-21,-0.9,"REP","Live Phone/Online Panel/Text",1117
+"1201",37,"Echelon Insights","Washington",2024-03-21,-0.8,"REP","Live Phone/Text-to-Web",600
+"1202",45,"Emerson","Arizona",2024-03-20,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1203",46,"Emerson","Georgia",2024-03-20,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1204",45.5,"Emerson","Michigan",2024-03-20,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1205",45.1,"Emerson","Nevada",2024-03-20,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1206",46.9,"Emerson","North Carolina",2024-03-20,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1207",46.6,"Emerson","Pennsylvania",2024-03-20,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1208",46.7,"Emerson","Wisconsin",2024-03-20,-1.1,"REP","IVR/Online Panel/Text-to-Web",1000
+"1209",43,"YouGov","National",2024-03-19,-1.1,"REP","Online Panel",1510
+"1210",46,"Hart/POS","National",2024-03-19,-0.7,"REP","Live Phone",1001
+"1211",51,"Echelon Insights","Arizona",2024-03-19,-0.8,"REP","Live Phone/Text-to-Web",401
+"1212",52,"Echelon Insights","Georgia",2024-03-19,-0.8,"REP","Live Phone/Text-to-Web",400
+"1213",51,"Echelon Insights","Michigan",2024-03-19,-0.8,"REP","Live Phone/Text-to-Web",400
+"1214",51,"Echelon Insights","Nevada",2024-03-19,-0.8,"REP","Live Phone/Text-to-Web",400
+"1215",49,"Echelon Insights","Pennsylvania",2024-03-19,-0.8,"REP","Live Phone/Text-to-Web",400
+"1216",46,"Echelon Insights","Wisconsin",2024-03-19,-0.8,"REP","Live Phone/Text-to-Web",400
+"1217",50.3,"Emerson","Michigan",2024-03-18,-1.1,"REP","IVR/Online Panel/Email",1000
+"1218",43.2,"Emerson","Michigan",2024-03-18,-1.1,"REP","IVR/Online Panel/Email",1000
+"1219",44.6,"Emerson","Michigan",2024-03-18,-1.1,"REP","IVR/Online Panel/Email",1000
+"1220",51.8,"Emerson","Wisconsin",2024-03-18,-1.1,"REP","IVR/Online Panel/Email",1000
+"1221",43.4,"Emerson","Wisconsin",2024-03-18,-1.1,"REP","IVR/Online Panel/Email",1000
+"1222",50,"CNN/SSRS","Michigan",2024-03-18,-0.6,"REP","Live Phone/Probability Panel",1097
+"1223",40,"CNN/SSRS","Michigan",2024-03-18,-0.6,"REP","Live Phone/Probability Panel",1097
+"1224",46,"CNN/SSRS","Pennsylvania",2024-03-18,-0.6,"REP","Live Phone/Probability Panel",1132
+"1225",40,"CNN/SSRS","Pennsylvania",2024-03-18,-0.6,"REP","Live Phone/Probability Panel",1132
+"1226",45,"Selzer","National",2024-03-17,-1.2,"REP","Live Phone",704
+"1227",47,"Mitchell","Michigan",2024-03-16,-0.2,"REP","Text-to-Web",627
+"1228",44,"Mitchell","Michigan",2024-03-16,-0.2,"REP","Text-to-Web",627
+"1229",52.3,"Emerson","Arizona",2024-03-15,-1.1,"REP","IVR/Online Panel/Email",1000
+"1230",45.8,"Emerson","Arizona",2024-03-15,-1.1,"REP","IVR/Online Panel/Email",1000
+"1231",51.3,"Emerson","Nevada",2024-03-15,-1.1,"REP","IVR/Online Panel/Email",1000
+"1232",41,"Emerson","Nevada",2024-03-15,-1.1,"REP","IVR/Online Panel/Email",1000
+"1233",46,"Noble Predictive Insights","National",2024-03-15,-0.4,"REP","Online Panel/Text-to-Web",2145
+"1234",43,"Noble Predictive Insights","National",2024-03-15,-0.4,"REP","Online Panel/Text-to-Web",2145
+"1235",43,"Noble Predictive Insights","National",2024-03-15,-0.4,"REP","Online Panel/Text-to-Web",2510
+"1236",41,"Noble Predictive Insights","National",2024-03-15,-0.4,"REP","Online Panel/Text-to-Web",2510
+"1237",51,"Marist","Georgia",2024-03-14,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1177
+"1238",45,"Marist","Georgia",2024-03-14,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1177
+"1239",51,"Marist","North Carolina",2024-03-14,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1197
+"1240",46,"Marist","North Carolina",2024-03-14,-0.9,"REP","Live Phone/Online Panel/Text-to-Web",1197
+"1241",47.5,"St. Pete Polls","Florida",2024-03-13,-0.3,"REP","IVR/Text-to-Web",1963
+"1242",51.8,"Emerson","Pennsylvania",2024-03-13,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1243",43.7,"Emerson","Pennsylvania",2024-03-13,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1244",48,"Ipsos","National",2024-03-13,-0.9,"REP","Probability Panel",3356
+"1245",36,"Ipsos","National",2024-03-13,-0.9,"REP","Probability Panel",4094
+"1246",38,"Ipsos","National",2024-03-13,-0.9,"REP","Probability Panel",3356
+"1247",32,"Ipsos","National",2024-03-13,-0.9,"REP","Probability Panel",4094
+"1248",44,"YouGov","National",2024-03-12,-1.1,"REP","Online Panel",1367
+"1249",44,"Civiqs","National",2024-03-12,-0.2,"REP","Online Panel/Online Ad",1324
+"1250",48,"Quinnipiac","Michigan",2024-03-12,-0.5,"REP","Live Phone",1487
+"1251",41,"Quinnipiac","Michigan",2024-03-12,-0.5,"REP","Live Phone",1487
+"1252",46,"YouGov","National",2024-03-11,-1.1,"REP","Online Panel",990
+"1253",43,"YouGov","National",2024-03-11,-1.1,"REP","Online Panel",992
+"1254",40,"Suffolk","National",2024-03-11,-1,"REP","Live Phone",1000
+"1255",48.1,"East Carolina University","Ohio",2024-03-11,-0.5,"REP","IVR/Online Panel/Text-to-Web",1298
+"1256",49,"Beacon/Shaw","Pennsylvania",2024-03-11,-1.1,"REP","Live Phone/Text-to-Web",1149
+"1257",42,"Beacon/Shaw","Pennsylvania",2024-03-11,-1.1,"REP","Live Phone/Text-to-Web",1149
+"1258",49,"Beacon/Shaw","Arizona",2024-03-11,-1.1,"REP","Live Phone/Text-to-Web",1121
+"1259",43,"Beacon/Shaw","Arizona",2024-03-11,-1.1,"REP","Live Phone/Text-to-Web",1121
+"1260",50,"SurveyUSA","Ohio",2024-03-11,-1.3,"REP","Online Panel",1241
+"1261",44,"SurveyUSA","Ohio",2024-03-11,-1.3,"REP","Online Panel",1241
+"1262",51,"SurveyUSA","Ohio",2024-03-11,-1.3,"REP","Online Panel",1241
+"1263",51,"SurveyUSA","Ohio",2024-03-11,-1.3,"REP","Online Panel",1241
+"1264",51,"SurveyUSA","Ohio",2024-03-11,-1.3,"REP","Online Panel",1241
+"1265",51,"YouGov","Georgia",2024-03-11,-1.1,"REP","Online Panel",1126
+"1266",55.4,"Emerson","Ohio",2024-03-10,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1300
+"1267",47.1,"Emerson","Ohio",2024-03-10,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1300
+"1268",50,"SurveyUSA","North Carolina",2024-03-09,-1.3,"REP","Online Panel",598
+"1269",45.2,"Cygnal","North Carolina",2024-03-07,-1.1,"REP","Live Phone/Text-to-Web",600
+"1270",52,"Emerson","Georgia",2024-03-07,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1271",44.2,"Emerson","Georgia",2024-03-07,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1272",49,"Emerson","National",2024-03-06,-1.1,"REP","IVR/Online Panel/Email",1350
+"1273",43.2,"Emerson","National",2024-03-06,-1.1,"REP","IVR/Online Panel/Email",1350
+"1274",44,"YouGov","National",2024-03-05,-1.1,"REP","Online Panel",1450
+"1275",54.8,"Emerson","Indiana",2024-03-05,-1.1,"REP","Online Panel/Email/Text-to-Web",1000
+"1276",45,"Noble Predictive Insights","Nevada",2024-03-05,-0.4,"REP","Online Panel",829
+"1277",40,"Noble Predictive Insights","Nevada",2024-03-05,-0.4,"REP","Online Panel",829
+"1278",55.6,"Emerson","Montana",2024-03-02,-1.1,"REP","Online Panel/Email/Text-to-Web",1000
+"1279",48.5,"Emerson","Montana",2024-03-02,-1.1,"REP","Online Panel/Email/Text-to-Web",1000
+"1280",53,"Data for Progress","Alaska",2024-03-02,-1.2,"REP","Online Panel/Text",1120
+"1281",53,"Data for Progress","Alaska",2024-03-02,-1.2,"REP","Online Panel/Text",1120
+"1282",52,"YouGov","National",2024-03-01,-1.1,"REP","Online Panel",1436
+"1283",36,"Ipsos","National",2024-02-28,-0.9,"REP","Probability Panel",1185
+"1284",48,"Siena/NYT","National",2024-02-28,-1.5,"REP","Live Phone",980
+"1285",48,"Siena/NYT","National",2024-02-28,-1.5,"REP","Live Phone",980
+"1286",47,"Siena/NYT","National",2024-02-28,-1.5,"REP","Live Phone",980
+"1287",48,"Siena/NYT","National",2024-02-28,-1.5,"REP","Live Phone",980
+"1288",41,"Beacon/Shaw","National",2024-02-28,-1.1,"REP","Live Phone/Text-to-Web",1262
+"1289",49,"Beacon/Shaw","National",2024-02-28,-1.1,"REP","Live Phone/Text-to-Web",1262
+"1290",48,"Selzer","Iowa",2024-02-28,-1.2,"REP","Live Phone",640
+"1291",38,"SurveyUSA","Minnesota",2024-02-28,-1.3,"REP","Online Panel",1603
+"1292",44,"Kaiser Family Foundation","National",2024-02-28,-0.3,"REP","Probability Panel",1072
+"1293",44,"YouGov","National",2024-02-27,-1.1,"REP","Online Panel",1498
+"1294",35.1,"Emerson","California",2024-02-27,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1295",31.5,"Emerson","California",2024-02-27,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1296",28,"UC Berkeley","California",2024-02-26,-0.2,"REP","Online Panel",6536
+"1297",34,"UC Berkeley","California",2024-02-26,-0.2,"REP","Online Panel",6536
+"1298",47,"Rasmussen","Arizona",2024-02-26,-0.5,"REP","IVR/Online Panel",1001
+"1299",39,"Leger","National",2024-02-25,0,"REP","Online Panel",1005
+"1300",45,"Leger","National",2024-02-25,0,"REP","Online Panel",773
+"1301",46,"Emerson","Michigan",2024-02-24,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1302",42.4,"Emerson","Michigan",2024-02-24,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1303",45.2,"Emerson","Wisconsin",2024-02-24,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1304",40.8,"Emerson","Wisconsin",2024-02-24,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1305",47,"Emerson","Wisconsin",2024-02-24,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1306",44.7,"Emerson","Wisconsin",2024-02-24,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1000
+"1307",43,"YouGov","National",2024-02-20,-1.1,"REP","Online Panel",1360
+"1308",46,"Emerson","Nevada",2024-02-19,-1.1,"REP","IVR/Online Panel/Email",1000
+"1309",44.3,"Emerson","Nevada",2024-02-19,-1.1,"REP","IVR/Online Panel/Email",1000
+"1310",47.6,"Emerson","Nevada",2024-02-19,-1.1,"REP","IVR/Online Panel/Email",1000
+"1311",49,"Emerson","Nevada",2024-02-19,-1.1,"REP","IVR/Online Panel/Email",1000
+"1312",45.6,"Emerson","Arizona",2024-02-19,-1.1,"REP","IVR/Online Panel/Email",1000
+"1313",42.6,"Emerson","Arizona",2024-02-19,-1.1,"REP","IVR/Online Panel/Email",1000
+"1314",47.6,"Emerson","Arizona",2024-02-19,-1.1,"REP","IVR/Online Panel/Email",1000
+"1315",47.3,"Emerson","Arizona",2024-02-19,-1.1,"REP","IVR/Online Panel/Email",1000
+"1316",45,"Quinnipiac","National",2024-02-19,-0.5,"REP","Live Phone",1421
+"1317",37,"Quinnipiac","National",2024-02-19,-0.5,"REP","Live Phone",1421
+"1318",43,"Roanoke College","Virginia",2024-02-19,-0.4,"REP","Live Phone/Online Panel",705
+"1319",32.6,"Emerson","California",2024-02-18,-1.1,"REP","IVR/Online Panel/Email",1000
+"1320",30.7,"Emerson","California",2024-02-18,-1.1,"REP","IVR/Online Panel/Email",1000
+"1321",50.6,"Emerson","South Carolina",2024-02-16,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1197
+"1322",45.1,"Emerson","Pennsylvania",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1323",41.5,"Emerson","Pennsylvania",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1324",49.2,"Emerson","Pennsylvania",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1325",48.4,"Emerson","Pennsylvania",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1326",46.6,"Emerson","North Carolina",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1327",45.9,"Emerson","North Carolina",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1328",49.9,"Emerson","North Carolina",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1329",49.2,"Emerson","North Carolina",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1330",47.9,"Emerson","Georgia",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1331",45,"Emerson","Georgia",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1332",51,"Emerson","Georgia",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1333",50.5,"Emerson","Georgia",2024-02-16,-1.1,"REP","IVR/Online Panel/Email",1000
+"1334",47,"Rasmussen","National",2024-02-15,-0.5,"REP","IVR/Online Panel",868
+"1335",43,"Rasmussen","National",2024-02-15,-0.5,"REP","IVR/Online Panel",868
+"1336",51,"SurveyUSA","Montana",2024-02-15,-1.3,"REP","Online Panel/Text-to-Web",549
+"1337",51,"Marquette Law School","National",2024-02-15,-1.1,"REP","Probability Panel",787
+"1338",52,"Marquette Law School","National",2024-02-15,-1.1,"REP","Probability Panel",628
+"1339",42,"Marquette Law School","National",2024-02-15,-1.1,"REP","Probability Panel",787
+"1340",43,"Marquette Law School","National",2024-02-15,-1.1,"REP","Probability Panel",628
+"1341",44.7,"Emerson","National",2024-02-14,-1.1,"REP","IVR/Online Panel/Email",1225
+"1342",40.2,"Emerson","National",2024-02-14,-1.1,"REP","IVR/Online Panel/Email",1225
+"1343",46,"Emerson","National",2024-02-14,-1.1,"REP","IVR/Online Panel/Email",1225
+"1344",45,"Emerson","National",2024-02-14,-1.1,"REP","IVR/Online Panel/Email",1225
+"1345",46.1,"Emerson","National",2024-02-14,-1.1,"REP","IVR/Online Panel/Email",1225
+"1346",49,"Echelon Insights","National",2024-02-14,-0.8,"REP","Online Panel",1015
+"1347",42,"Echelon Insights","National",2024-02-14,-0.8,"REP","Online Panel",1015
+"1348",36,"Siena","New York",2024-02-14,-0.8,"REP","Live Phone/Online Panel",806
+"1349",32,"Siena","New York",2024-02-14,-0.8,"REP","Live Phone/Online Panel",806
+"1350",38,"Pan Atlantic Research","Maine",2024-02-14,-0.1,"REP","Online Panel",791
+"1351",32,"Emerson","Maryland",2024-02-13,-1.1,"REP","IVR/Online Panel/Email",1000
+"1352",31.4,"Emerson","Maryland",2024-02-13,-1.1,"REP","IVR/Online Panel/Email",1000
+"1353",49.2,"Cygnal","Iowa",2024-02-13,-1.1,"REP","Online Panel/Text",600
+"1354",44,"YouGov","National",2024-02-13,-1.1,"REP","Online Panel",1470
+"1355",32,"PPIC","California",2024-02-13,-0.4,"REP","Probability Panel",1075
+"1356",37,"Ipsos","National",2024-02-12,-0.9,"REP","Probability Panel",1237
+"1357",46.5,"East Carolina University","North Carolina",2024-02-12,-0.5,"REP","IVR/Online Panel/Text-to-Web",1207
+"1358",47,"Beacon/Shaw","Michigan",2024-02-12,-1.1,"REP","Live Phone/Text-to-Web",1106
+"1359",42,"Beacon/Shaw","Michigan",2024-02-12,-1.1,"REP","Live Phone/Text-to-Web",1106
+"1360",50,"Beacon/Shaw","North Carolina",2024-02-12,-1.1,"REP","Live Phone/Text-to-Web",1099
+"1361",46,"Beacon/Shaw","North Carolina",2024-02-12,-1.1,"REP","Live Phone/Text-to-Web",1099
+"1362",45,"YouGov","Texas",2024-02-12,-1.1,"REP","Online Panel",1200
+"1363",48,"YouGov","Texas",2024-02-12,-1.1,"REP","Online Panel",1200
+"1364",50,"Winthrop U.","South Carolina",2024-02-10,-0.3,"REP","Live Phone/Online Panel",1717
+"1365",45,"YouGov","National",2024-02-09,-1.1,"REP","Online Panel",869
+"1366",40,"Chism Strategies","Pennsylvania",2024-02-08,-0.3,"REP","Text",500
+"1367",43.9,"AtlasIntel","National",2024-02-07,-0.8,"REP","Online Ad",1637
+"1368",39,"AtlasIntel","National",2024-02-07,-0.8,"REP","Online Ad",1637
+"1369",33,"Ipsos","National",2024-02-07,-0.9,"REP","Probability Panel",1076
+"1370",41,"Kaiser Family Foundation","National",2024-02-07,-0.3,"REP","Live Phone/Probability Panel",1055
+"1371",44,"YouGov","National",2024-02-06,-1.1,"REP","Online Panel",1399
+"1372",25.5,"Suffolk","Massachusetts",2024-02-05,-1,"REP","Live Phone",1000
+"1373",44,"YouGov","National",2024-02-04,-1.1,"REP","Online Panel",1765
+"1374",49,"SurveyUSA","National",2024-02-02,-1.3,"REP","Online Panel",1048
+"1375",45,"SurveyUSA","National",2024-02-02,-1.3,"REP","Online Panel",1048
+"1376",43,"SurveyUSA","National",2024-02-02,-1.3,"REP","Online Panel",1048
+"1377",41,"SurveyUSA","National",2024-02-02,-1.3,"REP","Online Panel",1048
+"1378",47,"Marist","National",2024-02-01,-0.9,"REP","Live Phone/Online Panel/Text",1441
+"1379",49,"Marquette Law School","Wisconsin",2024-01-31,-1.1,"REP","Live Phone/Email",930
+"1380",50,"Marquette Law School","Wisconsin",2024-01-31,-1.1,"REP","Live Phone/Email",808
+"1381",40,"Marquette Law School","Wisconsin",2024-01-31,-1.1,"REP","Live Phone/Email",930
+"1382",41,"Marquette Law School","Wisconsin",2024-01-31,-1.1,"REP","Live Phone/Email",808
+"1383",42,"YouGov","National",2024-01-30,-1.1,"REP","Online Panel",1486
+"1384",44,"Civiqs","National",2024-01-30,-0.2,"REP","Online Panel/Online Ad",1217
+"1385",42,"Beacon/Shaw","Wisconsin",2024-01-30,-1.1,"REP","Live Phone/Text-to-Web",1172
+"1386",47,"Beacon/Shaw","Wisconsin",2024-01-30,-1.1,"REP","Live Phone/Text-to-Web",1172
+"1387",45,"Beacon/Shaw","Georgia",2024-01-30,-1.1,"REP","Live Phone/Text-to-Web",1119
+"1388",51,"Beacon/Shaw","Georgia",2024-01-30,-1.1,"REP","Live Phone/Text-to-Web",1119
+"1389",47,"Hart/POS","National",2024-01-30,-0.7,"REP","Live Phone",1000
+"1390",49,"CNN/SSRS","National",2024-01-30,-0.6,"REP","Probability Panel",983
+"1391",43,"UMass Amherst/YouGov","National",2024-01-30,-0.4,"REP","Online Panel",1064
+"1392",45,"YouGov","National",2024-01-30,-1.1,"REP","Online Panel",850
+"1393",45.5,"Emerson","National",2024-01-29,-1.1,"REP","IVR/Online Panel/Email",1260
+"1394",41.1,"Emerson","National",2024-01-29,-1.1,"REP","IVR/Online Panel/Email",1260
+"1395",41.7,"Emerson","National",2024-01-29,-1.1,"REP","IVR/Online Panel/Email",1260
+"1396",45,"YouGov","National",2024-01-29,-1.1,"REP","Online Panel",1069
+"1397",42,"YouGov","National",2024-01-29,-1.1,"REP","Online Panel",1069
+"1398",44,"Quinnipiac","National",2024-01-29,-0.5,"REP","Live Phone",1650
+"1399",37,"Quinnipiac","National",2024-01-29,-0.5,"REP","Live Phone",1650
+"1400",39,"SurveyUSA","Minnesota",2024-01-29,-1.3,"REP","Online Panel",1594
+"1401",37,"Leger","National",2024-01-28,0,"REP","Online Panel",1004
+"1402",49.4,"Emerson","Missouri",2024-01-28,-1.1,"REP","IVR/Online Panel",1830
+"1403",35,"Emerson","Colorado",2024-01-28,-1.1,"REP","IVR/Online Panel",1856
+"1404",55.3,"Emerson","South Dakota",2024-01-28,-1.1,"REP","IVR/Online Panel",1777
+"1405",42,"Franklin and Marshall College","Pennsylvania",2024-01-28,-0.1,"REP","Mail-to-Web/Mail-to-Phone",507
+"1406",37,"Franklin and Marshall College","Pennsylvania",2024-01-28,-0.1,"REP","Mail-to-Web/Mail-to-Phone",499
+"1407",46.8,"Emerson","Ohio",2024-01-25,-1.1,"REP","IVR/Online Panel",1844
+"1408",40,"Ipsos","National",2024-01-24,-0.9,"REP","Probability Panel",1250
+"1409",36,"Ipsos","National",2024-01-24,-0.9,"REP","Probability Panel",1250
+"1410",49,"U. Houston","Texas",2024-01-24,-0.3,"REP","Online Panel",1145
+"1411",52,"U. Houston","Texas",2024-01-24,-0.3,"REP","Online Panel",1145
+"1412",44,"YouGov","National",2024-01-23,-1.1,"REP","Online Panel",1497
+"1413",47,"Echelon Insights","National",2024-01-18,-0.8,"REP","Online Panel",1029
+"1414",41,"Echelon Insights","National",2024-01-18,-0.8,"REP","Online Panel",1029
+"1415",45,"Marist","New Hampshire",2024-01-17,-0.9,"REP","Live Phone/Online Panel/Text",1157
+"1416",41,"Marist","New Hampshire",2024-01-17,-0.9,"REP","Live Phone/Online Panel/Text",1157
+"1417",37,"Siena","New York",2024-01-17,-0.8,"REP","Live Phone/Online Panel",807
+"1418",32,"Siena","New York",2024-01-17,-0.8,"REP","Live Phone/Online Panel",807
+"1419",43,"YouGov","National",2024-01-16,-1.1,"REP","Online Panel",1472
+"1420",48.7,"Emerson","Texas",2024-01-15,-1.1,"REP","IVR/Online Panel/Email",1315
+"1421",45.7,"Emerson","Texas",2024-01-15,-1.1,"REP","IVR/Online Panel/Email",1315
+"1422",33.7,"Emerson","California",2024-01-14,-1.1,"REP","IVR/Online Panel",1087
+"1423",31.7,"Emerson","California",2024-01-14,-1.1,"REP","IVR/Online Panel",1087
+"1424",40,"Virginia Commonwealth U.","Virginia",2024-01-13,-0.1,"REP","Live Phone/Text-to-Web",812
+"1425",50,"YouGov","National",2024-01-12,-1.1,"REP","Online Panel",1906
+"1426",37,"Angus Reid","National",2024-01-12,-0.1,"REP","Online Panel",1178
+"1427",44.7,"U. Georgia SPIA","Georgia",2024-01-11,-0.2,"REP","Live Phone",1007
+"1428",43,"YouGov","National",2024-01-09,-1.1,"REP","Online Panel",1417
+"1429",49,"Rasmussen","National",2024-01-09,-0.5,"REP","IVR/Online Panel",968
+"1430",48,"Ipsos","National",2024-01-09,-0.9,"REP","Probability Panel",4677
+"1431",30,"Ipsos","National",2024-01-09,-0.9,"REP","Probability Panel",4677
+"1432",38,"Ipsos","National",2024-01-09,-0.9,"REP","Probability Panel",3815
+"1433",33,"Ipsos","National",2024-01-09,-0.9,"REP","Probability Panel",3815
+"1434",47,"Emerson","Nevada",2024-01-08,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1294
+"1435",42.2,"Emerson","Nevada",2024-01-08,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1294
+"1436",46,"Quinnipiac","Pennsylvania",2024-01-08,-0.5,"REP","Live Phone",1680
+"1437",39,"Quinnipiac","Pennsylvania",2024-01-08,-0.5,"REP","Live Phone",1680
+"1438",31,"UC Berkeley","California",2024-01-08,-0.2,"REP","Email",4470
+"1439",37,"UC Berkeley","California",2024-01-08,-0.2,"REP","Email",4470
+"1440",34.1,"Suffolk","New Hampshire",2024-01-07,-1,"REP","Live Phone",1000
+"1441",34,"Ipsos","National",2024-01-07,-0.9,"REP","Probability Panel",2027
+"1442",45,"Noble Predictive Insights","National",2024-01-04,-0.4,"REP","Online Panel/Text-to-Web",2364
+"1443",44,"Noble Predictive Insights","National",2024-01-04,-0.4,"REP","Online Panel/Text-to-Web",2573
+"1444",41,"Noble Predictive Insights","National",2024-01-04,-0.4,"REP","Online Panel/Text-to-Web",2364
+"1445",41,"Noble Predictive Insights","National",2024-01-04,-0.4,"REP","Online Panel/Text-to-Web",2573
+"1446",44,"YouGov","National",2024-01-02,-1.1,"REP","Online Panel",1343
+"1447",43.8,"Suffolk","National",2023-12-26,-1,"REP","Live Phone",1000
+"1448",37.2,"Suffolk","National",2023-12-26,-1,"REP","Live Phone",1000
+"1449",42,"YouGov","National",2023-12-23,-1.1,"REP","Online Panel",1765
+"1450",39,"St. Anselm","New Hampshire",2023-12-19,-0.5,"REP","Text-to-Web",1711
+"1451",43,"Mason-Dixon","Virginia",2023-12-19,-1.1,"REP","Live Phone",625
+"1452",36,"Mason-Dixon","Virginia",2023-12-19,-1.1,"REP","Live Phone",625
+"1453",43,"YouGov","National",2023-12-18,-1.1,"REP","Online Panel",1336
+"1454",44,"YouGov","National",2023-12-18,-1.1,"REP","Online Panel",1027
+"1455",41,"YouGov","National",2023-12-18,-1.1,"REP","Online Panel",1027
+"1456",45,"YouGov","National",2023-12-18,-1.1,"REP","Online Panel",1027
+"1457",44,"YouGov","National",2023-12-18,-1.1,"REP","Online Panel",1027
+"1458",46,"Quinnipiac","National",2023-12-18,-0.5,"REP","Live Phone",1647
+"1459",36,"Quinnipiac","National",2023-12-18,-0.5,"REP","Live Phone",1647
+"1460",38,"Quinnipiac","National",2023-12-18,-0.5,"REP","Live Phone",1647
+"1461",40,"YouGov","Colorado",2023-12-18,-1.1,"REP","Online Panel",800
+"1462",36,"Leger","National",2023-12-17,0,"REP","Online Panel",1000
+"1463",48.2,"Emerson","Iowa",2023-12-17,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1094
+"1464",47,"Echelon Insights","National",2023-12-16,-0.8,"REP","Online Panel",1012
+"1465",41,"Echelon Insights","National",2023-12-16,-0.8,"REP","Online Panel",1012
+"1466",46,"Siena/NYT","National",2023-12-14,-1.5,"REP","Live Phone",1016
+"1467",45,"Siena/NYT","National",2023-12-14,-1.5,"REP","Live Phone",1016
+"1468",50,"Beacon/Shaw","National",2023-12-13,-1.1,"REP","Live Phone",1007
+"1469",41,"Beacon/Shaw","National",2023-12-13,-1.1,"REP","Live Phone",1007
+"1470",41,"Muhlenberg","Pennsylvania",2023-12-13,-1,"REP","Live Phone",421
+"1471",37,"Muhlenberg","Pennsylvania",2023-12-13,-1,"REP","Live Phone",421
+"1472",43,"YouGov","National",2023-12-12,-1.1,"REP","Online Panel",1332
+"1473",48,"Hart/POS","National",2023-12-12,-0.7,"REP","Live Phone",1002
+"1474",38,"Ipsos","National",2023-12-11,-0.9,"REP","Probability Panel",4411
+"1475",36,"Ipsos","National",2023-12-11,-0.9,"REP","Probability Panel",4411
+"1476",48,"Rasmussen","National",2023-12-10,-0.5,"REP","IVR/Online Panel",892
+"1477",40,"Rasmussen","National",2023-12-10,-0.5,"REP","IVR/Online Panel",892
+"1478",45,"YouGov","Texas",2023-12-10,-1.1,"REP","Online Panel",1200
+"1479",42,"YouGov","Texas",2023-12-10,-1.1,"REP","Online Panel",1200
+"1480",48,"Marist","National",2023-12-07,-0.9,"REP","Live Phone/Online Panel/Text",1129
+"1481",49,"CNN/SSRS","Georgia",2023-12-07,-0.6,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",1068
+"1482",42,"CNN/SSRS","Georgia",2023-12-07,-0.6,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",1068
+"1483",47.4,"Emerson","National",2023-12-06,-1.1,"REP","IVR/Online Panel/Email",1000
+"1484",43.4,"Emerson","National",2023-12-06,-1.1,"REP","IVR/Online Panel/Email",1000
+"1485",50,"CNN/SSRS","Michigan",2023-12-06,-0.6,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",1197
+"1486",39,"CNN/SSRS","Michigan",2023-12-06,-0.6,"REP","Live Phone/Text-to-Web/Email/Mail-to-Web",1197
+"1487",41,"YouGov","National",2023-12-05,-1.1,"REP","Online Panel",1291
+"1488",45,"SSRS","Tennessee",2023-12-02,-0.2,"REP","Live Phone",502
+"1489",42,"YouGov","National",2023-11-27,-1.1,"REP","Online Panel",1323
+"1490",37,"YouGov","National",2023-11-27,-1.1,"REP","Online Panel",1000
+"1491",36,"YouGov","National",2023-11-27,-1.1,"REP","Online Panel",1000
+"1492",35,"Leger","National",2023-11-26,0,"REP","Online Panel",1001
+"1493",47.3,"Emerson","National",2023-11-20,-1.1,"REP","IVR/Online Panel",1475
+"1494",42.2,"Emerson","National",2023-11-20,-1.1,"REP","IVR/Online Panel",1475
+"1495",44,"Roanoke College","Virginia",2023-11-20,-0.4,"REP","Live Phone/Online Panel",686
+"1496",36,"NORC","National",2023-11-20,0.2,"REP","Probability Panel",2694
+"1497",47,"Echelon Insights","National",2023-11-17,-0.8,"REP","Online Panel",1006
+"1498",30,"PPIC","California",2023-11-16,-0.4,"REP","Probability Panel",1113
+"1499",36,"Siena","New York",2023-11-15,-0.8,"REP","Live Phone/Online Panel",803
+"1500",28,"Siena","New York",2023-11-15,-0.8,"REP","Live Phone/Online Panel",803
+"1501",51,"Ipsos","National",2023-11-14,-0.9,"REP","Probability Panel",1006
+"1502",32,"Ipsos","National",2023-11-14,-0.9,"REP","Probability Panel",1006
+"1503",43,"YouGov","National",2023-11-14,-1.1,"REP","Online Panel",1272
+"1504",36.9,"Emerson","California",2023-11-14,-1.1,"REP","IVR/Online Panel",1000
+"1505",30.8,"Emerson","California",2023-11-14,-1.1,"REP","IVR/Online Panel",1000
+"1506",34.9,"Emerson","California",2023-11-14,-1.1,"REP","IVR/Online Panel",1000
+"1507",37.9,"Emerson","California",2023-11-14,-1.1,"REP","IVR/Online Panel",1000
+"1508",48,"Hart/POS","National",2023-11-14,-0.7,"REP","Live Phone",1000
+"1509",41.9,"Emerson","New Hampshire",2023-11-13,-1.1,"REP","IVR/Online Panel/Email",917
+"1510",36.7,"Emerson","New Hampshire",2023-11-13,-1.1,"REP","IVR/Online Panel/Email",917
+"1511",43.4,"Emerson","New Hampshire",2023-11-13,-1.1,"REP","IVR/Online Panel/Email",917
+"1512",42.5,"Emerson","New Hampshire",2023-11-13,-1.1,"REP","IVR/Online Panel/Email",917
+"1513",50,"Beacon/Shaw","National",2023-11-13,-1.1,"REP","Live Phone",1001
+"1514",50,"Beacon/Shaw","National",2023-11-13,-1.1,"REP","Live Phone",1001
+"1515",49,"Beacon/Shaw","National",2023-11-13,-1.1,"REP","Live Phone",1001
+"1516",48,"Beacon/Shaw","National",2023-11-13,-1.1,"REP","Live Phone",1001
+"1517",47,"Beacon/Shaw","National",2023-11-13,-1.1,"REP","Live Phone",1001
+"1518",41,"Beacon/Shaw","National",2023-11-13,-1.1,"REP","Live Phone",1001
+"1519",40,"Beacon/Shaw","National",2023-11-13,-1.1,"REP","Live Phone",1001
+"1520",50,"Emerson","Ohio",2023-11-13,-1.1,"REP","IVR/Online Panel/Email",1000
+"1521",44.9,"Emerson","Ohio",2023-11-13,-1.1,"REP","IVR/Online Panel/Email",1000
+"1522",44,"YouGov","National",2023-11-13,-1.1,"REP","Online Panel",1058
+"1523",48,"Quinnipiac","National",2023-11-13,-0.5,"REP","Live Phone",1574
+"1524",38,"Quinnipiac","National",2023-11-13,-0.5,"REP","Live Phone",1574
+"1525",38,"Quinnipiac","National",2023-11-13,-0.5,"REP","Live Phone",1574
+"1526",42,"Rasmussen","National",2023-11-12,-0.5,"REP","IVR/Online Panel",987
+"1527",39,"Rasmussen","National",2023-11-12,-0.5,"REP","IVR/Online Panel",987
+"1528",49,"Siena","Tennessee",2023-11-10,-0.8,"REP","Live Phone/Online Panel",805
+"1529",52,"Marquette Law School","National",2023-11-07,-1.1,"REP","Probability Panel",856
+"1530",51,"Marquette Law School","National",2023-11-07,-1.1,"REP","Probability Panel",668
+"1531",39,"Kaiser Family Foundation","National",2023-11-07,-0.3,"REP","Probability Panel",1072
+"1532",41,"Emerson","Michigan",2023-11-04,-1.1,"REP","IVR/Online Panel",1000
+"1533",43,"Emerson","Michigan",2023-11-04,-1.1,"REP","IVR/Online Panel",788
+"1534",46.4,"Emerson","Pennsylvania",2023-11-04,-1.1,"REP","IVR/Online Panel",1000
+"1535",49.1,"Emerson","Pennsylvania",2023-11-04,-1.1,"REP","IVR/Online Panel",816
+"1536",46.9,"Emerson","Georgia",2023-11-04,-1.1,"REP","IVR/Online Panel",1000
+"1537",49.1,"Emerson","Georgia",2023-11-04,-1.1,"REP","IVR/Online Panel",780
+"1538",43.8,"Emerson","Wisconsin",2023-11-04,-1.1,"REP","IVR/Online Panel",1000
+"1539",45.2,"Emerson","Wisconsin",2023-11-04,-1.1,"REP","IVR/Online Panel",819
+"1540",42.8,"Emerson","Arizona",2023-11-04,-1.1,"REP","IVR/Online Panel",1000
+"1541",45.5,"Emerson","Arizona",2023-11-04,-1.1,"REP","IVR/Online Panel",778
+"1542",46.2,"Emerson","Nevada",2023-11-04,-1.1,"REP","IVR/Online Panel",1000
+"1543",47.3,"Emerson","Nevada",2023-11-04,-1.1,"REP","IVR/Online Panel",770
+"1544",51,"YouGov","National",2023-11-03,-1.1,"REP","Online Panel",1759
+"1545",45.4,"U. Georgia SPIA","Georgia",2023-11-03,-0.2,"REP","Live Phone",1002
+"1546",49,"Siena/NYT","Arizona",2023-11-03,-1.5,"REP","Live Phone",603
+"1547",49,"Siena/NYT","Arizona",2023-11-03,-1.5,"REP","Live Phone",603
+"1548",48,"Siena/NYT","Arizona",2023-11-03,-1.5,"REP","Live Phone",603
+"1549",48,"Siena/NYT","Arizona",2023-11-03,-1.5,"REP","Live Phone",603
+"1550",33,"Siena/NYT","Arizona",2023-11-03,-1.5,"REP","Live Phone",603
+"1551",34,"Siena/NYT","Arizona",2023-11-03,-1.5,"REP","Live Phone",603
+"1552",49,"Siena/NYT","Georgia",2023-11-03,-1.5,"REP","Live Phone",629
+"1553",49,"Siena/NYT","Georgia",2023-11-03,-1.5,"REP","Live Phone",629
+"1554",45,"Siena/NYT","Georgia",2023-11-03,-1.5,"REP","Live Phone",629
+"1555",47,"Siena/NYT","Georgia",2023-11-03,-1.5,"REP","Live Phone",629
+"1556",36,"Siena/NYT","Georgia",2023-11-03,-1.5,"REP","Live Phone",629
+"1557",38,"Siena/NYT","Georgia",2023-11-03,-1.5,"REP","Live Phone",629
+"1558",48,"Siena/NYT","Michigan",2023-11-03,-1.5,"REP","Live Phone",616
+"1559",46,"Siena/NYT","Michigan",2023-11-03,-1.5,"REP","Live Phone",616
+"1560",47,"Siena/NYT","Michigan",2023-11-03,-1.5,"REP","Live Phone",616
+"1561",46,"Siena/NYT","Michigan",2023-11-03,-1.5,"REP","Live Phone",616
+"1562",34,"Siena/NYT","Michigan",2023-11-03,-1.5,"REP","Live Phone",616
+"1563",34,"Siena/NYT","Michigan",2023-11-03,-1.5,"REP","Live Phone",616
+"1564",52,"Siena/NYT","Nevada",2023-11-03,-1.5,"REP","Live Phone",611
+"1565",52,"Siena/NYT","Nevada",2023-11-03,-1.5,"REP","Live Phone",611
+"1566",48,"Siena/NYT","Nevada",2023-11-03,-1.5,"REP","Live Phone",611
+"1567",50,"Siena/NYT","Nevada",2023-11-03,-1.5,"REP","Live Phone",611
+"1568",38,"Siena/NYT","Nevada",2023-11-03,-1.5,"REP","Live Phone",611
+"1569",40,"Siena/NYT","Nevada",2023-11-03,-1.5,"REP","Live Phone",611
+"1570",48,"Siena/NYT","Pennsylvania",2023-11-03,-1.5,"REP","Live Phone",600
+"1571",49,"Siena/NYT","Pennsylvania",2023-11-03,-1.5,"REP","Live Phone",600
+"1572",47,"Siena/NYT","Pennsylvania",2023-11-03,-1.5,"REP","Live Phone",600
+"1573",48,"Siena/NYT","Pennsylvania",2023-11-03,-1.5,"REP","Live Phone",600
+"1574",35,"Siena/NYT","Pennsylvania",2023-11-03,-1.5,"REP","Live Phone",600
+"1575",36,"Siena/NYT","Pennsylvania",2023-11-03,-1.5,"REP","Live Phone",600
+"1576",45,"Siena/NYT","Wisconsin",2023-11-03,-1.5,"REP","Live Phone",603
+"1577",45,"Siena/NYT","Wisconsin",2023-11-03,-1.5,"REP","Live Phone",603
+"1578",47,"Siena/NYT","Wisconsin",2023-11-03,-1.5,"REP","Live Phone",603
+"1579",48,"Siena/NYT","Wisconsin",2023-11-03,-1.5,"REP","Live Phone",603
+"1580",35,"Siena/NYT","Wisconsin",2023-11-03,-1.5,"REP","Live Phone",603
+"1581",35,"Siena/NYT","Wisconsin",2023-11-03,-1.5,"REP","Live Phone",603
+"1582",51,"Data for Progress","Ohio",2023-11-02,-1.2,"REP","Online Panel/Text-to-Web",597
+"1583",49,"CNN/SSRS","National",2023-11-02,-0.6,"REP","Probability Panel",1271
+"1584",41,"CNN/SSRS","National",2023-11-02,-0.6,"REP","Probability Panel",1271
+"1585",48,"Marquette Law School","Wisconsin",2023-11-02,-1.1,"REP","Live Phone/Email",908
+"1586",38,"YouGov","National",2023-10-31,-1.1,"REP","Online Panel",1500
+"1587",42,"YouGov","National",2023-10-31,-1.1,"REP","Online Panel",1333
+"1588",46,"Noble Predictive Insights","Arizona",2023-10-31,-0.4,"REP","Online Panel",1010
+"1589",46,"Quinnipiac","National",2023-10-30,-0.5,"REP","Live Phone",1610
+"1590",36,"Quinnipiac","National",2023-10-30,-0.5,"REP","Live Phone",1610
+"1591",35,"Quinnipiac","National",2023-10-30,-0.5,"REP","Live Phone",1610
+"1592",31,"UC Berkeley","California",2023-10-30,-0.2,"REP","Email",4506
+"1593",29,"UC Berkeley","California",2023-10-30,-0.2,"REP","Email",4506
+"1594",36,"Leger","National",2023-10-29,0,"REP","Online Panel",1000
+"1595",47,"Echelon Insights","National",2023-10-26,-0.8,"REP","Online Panel",1029
+"1596",44,"Noble Predictive Insights","National",2023-10-26,-0.4,"REP","Online Panel/Text-to-Web",2202
+"1597",43,"Noble Predictive Insights","National",2023-10-26,-0.4,"REP","Online Panel/Text-to-Web",2605
+"1598",46,"Noble Predictive Insights","National",2023-10-26,-0.4,"REP","Online Panel/Text-to-Web",2202
+"1599",46,"Noble Predictive Insights","National",2023-10-26,-0.4,"REP","Online Panel/Text-to-Web",2605
+"1600",46,"Noble Predictive Insights","National",2023-10-26,-0.4,"REP","Online Panel/Text-to-Web",2202
+"1601",45,"Noble Predictive Insights","National",2023-10-26,-0.4,"REP","Online Panel/Text-to-Web",2605
+"1602",45,"Noble Predictive Insights","National",2023-10-26,-0.4,"REP","Online Panel/Text-to-Web",2202
+"1603",44,"Noble Predictive Insights","National",2023-10-26,-0.4,"REP","Online Panel/Text-to-Web",2605
+"1604",45,"Noble Predictive Insights","National",2023-10-26,-0.4,"REP","Online Panel/Text-to-Web",2202
+"1605",44,"Noble Predictive Insights","National",2023-10-26,-0.4,"REP","Online Panel/Text-to-Web",2605
+"1606",36.5,"Suffolk","National",2023-10-20,-1,"REP","Live Phone",1000
+"1607",41,"Suffolk","National",2023-10-20,-1,"REP","Live Phone",1000
+"1608",37,"Suffolk","National",2023-10-20,-1,"REP","Live Phone",1000
+"1609",41,"Suffolk","National",2023-10-20,-1,"REP","Live Phone",1000
+"1610",21,"UMass Amherst/YouGov","Massachusetts",2023-10-20,-0.4,"REP","Online Panel",700
+"1611",37,"Siena","New York",2023-10-19,-0.8,"REP","Live Phone/Online Panel",1225
+"1612",31,"Siena","New York",2023-10-19,-0.8,"REP","Live Phone/Online Panel",1225
+"1613",29,"PPIC","California",2023-10-19,-0.4,"REP","Probability Panel",1395
+"1614",47.2,"Emerson","National",2023-10-17,-1.1,"REP","IVR/Online Panel",1578
+"1615",47.9,"Emerson","National",2023-10-17,-1.1,"REP","IVR/Online Panel",1578
+"1616",45,"YouGov","Texas",2023-10-17,-1.1,"REP","Online Panel",1200
+"1617",43,"YouGov","National",2023-10-16,-1.1,"REP","Online Panel",1123
+"1618",40,"YouGov","National",2023-10-16,-1.1,"REP","Online Panel",1123
+"1619",39,"YouGov","National",2023-10-16,-1.1,"REP","Online Panel",1123
+"1620",40,"Selzer","National",2023-10-15,-1.2,"REP","Live Phone",784
+"1621",46,"Marist","National",2023-10-11,-0.9,"REP","Live Phone/Online Panel/Text",1218
+"1622",37,"Marist","National",2023-10-11,-0.9,"REP","Live Phone/Online Panel/Text",1218
+"1623",38,"YouGov","National",2023-10-10,-1.1,"REP","Online Panel",1500
+"1624",42,"YouGov","National",2023-10-10,-1.1,"REP","Online Panel",1296
+"1625",48,"Beacon/Shaw","National",2023-10-09,-1.1,"REP","Live Phone",1007
+"1626",45,"Beacon/Shaw","National",2023-10-09,-1.1,"REP","Live Phone",1007
+"1627",41,"Beacon/Shaw","National",2023-10-09,-1.1,"REP","Live Phone",1007
+"1628",41,"Echelon Insights","National",2023-10-05,-0.8,"REP","Online Panel",1033
+"1629",45.1,"Cygnal","National",2023-10-05,-1.1,"REP","Online Panel/Text-to-Web",2000
+"1630",39.6,"Cygnal","National",2023-10-05,-1.1,"REP","Online Panel/Text-to-Web",2000
+"1631",35,"Ipsos","National",2023-10-04,-0.9,"REP","Probability Panel",1005
+"1632",33,"Ipsos","National",2023-10-04,-0.9,"REP","Probability Panel",1005
+"1633",44.6,"Emerson","Ohio",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",438
+"1634",45.3,"Emerson","Pennsylvania",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",430
+"1635",54.5,"Emerson","Idaho",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",490
+"1636",42,"Emerson","Wisconsin",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",532
+"1637",50.2,"Emerson","Missouri",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",491
+"1638",47,"Emerson","Kansas",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",487
+"1639",59.3,"Emerson","West Virginia",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",539
+"1640",47.5,"Emerson","Indiana",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",462
+"1641",43.5,"Emerson","Iowa",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",464
+"1642",46.8,"Emerson","Nebraska",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",423
+"1643",54,"Emerson","North Dakota",2023-10-04,-1.1,"REP","Online Panel/Email",419
+"1644",50.3,"Emerson","South Dakota",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",432
+"1645",33.7,"Emerson","Illinois",2023-10-04,-1.1,"REP","Online Panel/Email",468
+"1646",56.6,"Emerson","Arkansas",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",435
+"1647",37.8,"Emerson","Minnesota",2023-10-04,-1.1,"REP","Online Panel/Email",477
+"1648",42.5,"Emerson","Michigan",2023-10-04,-1.1,"REP","IVR/Online Panel/Email",468
+"1649",37.6,"Emerson","Colorado",2023-10-04,-1.1,"REP","Online Panel/Email",442
+"1650",48.6,"Emerson","Montana",2023-10-04,-1.1,"REP","Online Panel/Email",447
+"1651",67.6,"Emerson","Wyoming",2023-10-04,-1.1,"REP","Online Panel/Email",478
+"1652",55.3,"Emerson","Tennessee",2023-10-04,-1.1,"REP","Online Panel/Email",410
+"1653",54.6,"Emerson","Kentucky",2023-10-03,-1.1,"REP","IVR/Online Panel/Email",450
+"1654",55,"Emerson","Oklahoma",2023-10-03,-1.1,"REP","IVR/Online Panel/Email",447
+"1655",43,"SurveyUSA","National",2023-10-03,-1.3,"REP","Online Panel",2330
+"1656",45,"CNN/SSRS","Nevada",2023-10-03,-0.6,"REP","Live Phone/Probability Panel",1251
+"1657",47,"Quinnipiac","Pennsylvania",2023-10-02,-0.5,"REP","Live Phone",1725
+"1658",47.2,"Cygnal","Iowa",2023-09-29,-1.1,"REP","Online Panel/Text-to-Web",506
+"1659",47.7,"Cygnal","Iowa",2023-09-29,-1.1,"REP","Online Panel/Text-to-Web",506
+"1660",46,"Echelon Insights","National",2023-09-28,-0.8,"REP","Online Panel",1011
+"1661",40,"Echelon Insights","National",2023-09-28,-0.8,"REP","Online Panel",1011
+"1662",47,"Marist","National",2023-09-28,-0.9,"REP","Live Phone/Online Panel/Text",1137
+"1663",39,"Marist","National",2023-09-28,-0.9,"REP","Live Phone/Online Panel/Text",1137
+"1664",45,"Susquehanna","Pennsylvania",2023-09-28,-0.3,"REP","Live Phone/Online Panel",700
+"1665",38,"YouGov","National",2023-09-26,-1.1,"REP","Online Panel",1500
+"1666",40,"YouGov","National",2023-09-26,-1.1,"REP","Online Panel",1293
+"1667",52,"Marquette Law School","National",2023-09-25,-1.1,"REP","Probability Panel",1007
+"1668",51,"Marquette Law School","National",2023-09-25,-1.1,"REP","Probability Panel",868
+"1669",49,"Marquette Law School","National",2023-09-25,-1.1,"REP","Probability Panel",690
+"1670",51,"ABC/Washington Post","National",2023-09-20,-1.2,"REP","Live Phone",1006
+"1671",52,"ABC/Washington Post","National",2023-09-20,-1.2,"REP","Live Phone",890
+"1672",46,"Hart/POS","National",2023-09-19,-0.7,"REP","Live Phone",1000
+"1673",39,"Hart/POS","National",2023-09-19,-0.7,"REP","Live Phone",1000
+"1674",45.2,"Emerson","National",2023-09-18,-1.1,"REP","IVR/Online Panel",1125
+"1675",43.3,"Emerson","National",2023-09-18,-1.1,"REP","IVR/Online Panel",1125
+"1676",44,"YouGov","National",2023-09-18,-1.1,"REP","Online Panel",1097
+"1677",40,"U. New Hampshire","New Hampshire",2023-09-18,-0.3,"REP","Probability Panel",2018
+"1678",47,"YouGov Blue","National",2023-09-18,-1.1,"REP","Online Panel",3098
+"1679",42,"YouGov Blue","National",2023-09-18,-1.1,"REP","Online Panel",3098
+"1680",26,"YouGov Blue","National",2023-09-18,-1.1,"IND","Online Panel",3098
+"1681",50,"YouGov","National",2023-09-15,-1.1,"REP","Online Panel",2525
+"1682",39,"Ipsos","National",2023-09-14,-0.9,"REP","Probability Panel",4415
+"1683",42,"Rasmussen","National",2023-09-13,-0.5,"REP","IVR/Online Panel",979
+"1684",31,"Siena","New York",2023-09-13,-0.8,"REP","Live Phone/Online Panel",804
+"1685",43,"YouGov","National",2023-09-12,-1.1,"REP","Online Panel",1334
+"1686",48,"Beacon/Shaw","National",2023-09-12,-1.1,"REP","Live Phone",1012
+"1687",47,"Rasmussen","Georgia",2023-09-11,-0.5,"REP","IVR/Online Panel",1061
+"1688",46,"Quinnipiac","National",2023-09-11,-0.5,"REP","Live Phone",1726
+"1689",50,"Emerson","Iowa",2023-09-09,-1.1,"REP","IVR/Online Panel",896
+"1690",47.5,"Emerson","Iowa",2023-09-09,-1.1,"REP","IVR/Online Panel",896
+"1691",26,"PPIC","California",2023-09-05,-0.4,"REP","Probability Panel",1146
+"1692",46,"Echelon Insights","National",2023-08-31,-0.8,"REP","Online Panel",1022
+"1693",47,"CNN/SSRS","National",2023-08-31,-0.6,"REP","Probability Panel",1259
+"1694",44,"YouGov","National",2023-08-29,-1.1,"REP","Online Panel",1303
+"1695",31,"UC Berkeley","California",2023-08-29,-0.2,"REP","Email",6030
+"1696",46.2,"Emerson","National",2023-08-26,-1.1,"REP","IVR/Online Panel",1000
+"1697",44.1,"Emerson","National",2023-08-26,-1.1,"REP","IVR/Online Panel",1000
+"1698",38,"Ipsos","National",2023-08-25,-0.9,"REP","Probability Panel",1004
+"1699",41,"YouGov","National",2023-08-21,-1.1,"REP","Online Panel",1113
+"1700",40,"Franklin and Marshall College","Pennsylvania",2023-08-20,-0.1,"REP","Mail-to-Web/Mail-to-Phone",723
+"1701",44.4,"Emerson","National",2023-08-17,-1.1,"REP","IVR/Online Panel",1000
+"1702",42,"Emerson","National",2023-08-17,-1.1,"REP","IVR/Online Panel",1000
+"1703",42.1,"Emerson","National",2023-08-17,-1.1,"REP","IVR/Online Panel",1000
+"1704",34,"Siena","New York",2023-08-16,-0.8,"REP","Live Phone/Online Panel",803
+"1705",39,"YouGov","National",2023-08-15,-1.1,"REP","Online Panel",1500
+"1706",42,"YouGov","National",2023-08-15,-1.1,"REP","Online Panel",1321
+"1707",42,"Roanoke College","Virginia",2023-08-15,-0.4,"REP","Live Phone/Online Panel",702
+"1708",46,"Marist","National",2023-08-14,-0.9,"REP","Live Phone/Online Panel/Text",1100
+"1709",41,"Beacon/Shaw","National",2023-08-14,-1.1,"REP","Live Phone",1002
+"1710",46,"Quinnipiac","National",2023-08-14,-0.5,"REP","Live Phone",1632
+"1711",40.9,"Emerson","New Hampshire",2023-08-11,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",837
+"1712",39.2,"Emerson","New Hampshire",2023-08-11,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",837
+"1713",44.7,"Emerson","Arizona",2023-08-04,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1337
+"1714",41.8,"Emerson","Arizona",2023-08-04,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1337
+"1715",41,"Noble Predictive Insights","National",2023-08-03,-0.4,"REP","Online Panel/Text-to-Web",2500
+"1716",43.6,"Emerson","Michigan",2023-08-02,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1121
+"1717",43.3,"Emerson","Michigan",2023-08-02,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1121
+"1718",35,"Ipsos","National",2023-08-01,-0.9,"REP","Probability Panel",2009
+"1719",44,"Echelon Insights","National",2023-07-27,-0.8,"REP","Online Panel",1013
+"1720",42,"Echelon Insights","National",2023-07-27,-0.8,"REP","Online Panel",1013
+"1721",43,"Siena/NYT","National",2023-07-27,-1.5,"REP","Live Phone",1329
+"1722",38,"YouGov","National",2023-07-25,-1.1,"REP","Online Panel",1500
+"1723",40,"YouGov","National",2023-07-25,-1.1,"REP","Online Panel",1306
+"1724",40,"Virginia Commonwealth U.","Virginia",2023-07-25,-0.1,"REP","Live Phone",804
+"1725",44,"Quinnipiac","National",2023-07-17,-0.5,"REP","Live Phone",1809
+"1726",43,"YouGov","National",2023-07-17,-1.1,"REP","Online Panel",1098
+"1727",35,"Ipsos","National",2023-07-17,-0.9,"REP","Probability Panel",4414
+"1728",25,"Ipsos","National",2023-07-17,-0.9,"IND","Probability Panel",4414
+"1729",31,"Ipsos","National",2023-07-17,-0.9,"REP","Probability Panel",4414
+"1730",31,"Ipsos","National",2023-07-17,-0.9,"REP","Probability Panel",4414
+"1731",43,"Mitchell","Michigan",2023-07-13,-0.2,"REP","Text-to-Web",639
+"1732",43.6,"Suffolk","Ohio",2023-07-12,-1,"REP","Live Phone",500
+"1733",49,"Marquette Law School","National",2023-07-12,-1.1,"REP","Probability Panel",1005
+"1734",50,"Marquette Law School","National",2023-07-12,-1.1,"REP","Probability Panel",788
+"1735",40,"YouGov","National",2023-07-11,-1.1,"REP","Online Panel",1500
+"1736",42,"YouGov","National",2023-07-11,-1.1,"REP","Online Panel",1296
+"1737",44,"Echelon Insights","National",2023-06-29,-0.8,"REP","Online Panel",1020
+"1738",43,"Echelon Insights","National",2023-06-29,-0.8,"REP","Online Panel",1020
+"1739",44,"Echelon Insights","National",2023-06-29,-0.8,"REP","Online Panel",1020
+"1740",43,"Echelon Insights","National",2023-06-29,-0.8,"REP","Online Panel",1020
+"1741",41,"YouGov Blue","National",2023-06-29,-1.1,"REP","Online Panel",3012
+"1742",31,"PPIC","California",2023-06-29,-0.4,"REP","Live Phone/Probability Panel",1092
+"1743",41,"YouGov","National",2023-06-27,-1.1,"REP","Online Panel",1500
+"1744",44,"YouGov","National",2023-06-27,-1.1,"REP","Online Panel",1315
+"1745",47,"Quinnipiac","Pennsylvania",2023-06-26,-0.5,"REP","Live Phone",1584
+"1746",28,"Siena","New York",2023-06-25,-0.8,"REP","Live Phone/Online Panel",817
+"1747",40,"St. Anselm","New Hampshire",2023-06-23,-0.5,"REP","Text-to-Web",1065
+"1748",45.8,"Cygnal","National",2023-06-22,-1.1,"REP","Online Panel/Text-to-Web",2010
+"1749",43.4,"Emerson","National",2023-06-20,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1015
+"1750",41.4,"Emerson","National",2023-06-20,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1015
+"1751",42,"YouGov","National",2023-06-20,-1.1,"REP","Online Panel",1091
+"1752",45,"Hart/POS","National",2023-06-20,-0.7,"REP","Live Phone",1000
+"1753",45,"Rasmussen","National",2023-06-14,-0.5,"REP","IVR/Online Panel",986
+"1754",39,"YouGov","National",2023-06-13,-1.1,"REP","Online Panel",1500
+"1755",41,"YouGov","National",2023-06-13,-1.1,"REP","Online Panel",1303
+"1756",43,"Marquette Law School","Wisconsin",2023-06-13,-1.1,"REP","Live Phone/Online Panel/Mail-to-Web",913
+"1757",44,"Quinnipiac","National",2023-06-12,-0.5,"REP","Live Phone",1735
+"1758",32.2,"Suffolk","National",2023-06-09,-1,"REP","Live Phone",1000
+"1759",40,"UMass Amherst/YouGov","National",2023-06-08,-0.4,"REP","Online Panel",1133
+"1760",42,"Cygnal","Georgia",2023-06-07,-1.1,"REP","IVR/Text-to-Web",600
+"1761",31.7,"Emerson","California",2023-06-07,-1.1,"REP","Online Panel/Email/Text-to-Web",1056
+"1762",45,"Data for Progress","National",2023-06-05,-1.2,"REP","Online Panel/Text-to-Web",1625
+"1763",44,"Data for Progress","National",2023-06-05,-1.2,"REP","Online Panel/Text-to-Web",1625
+"1764",39,"YouGov","National",2023-05-31,-1.1,"REP","Online Panel",1500
+"1765",40,"YouGov","National",2023-05-31,-1.1,"REP","Online Panel",1313
+"1766",41,"YouGov","National",2023-05-30,-1.1,"REP","Online Panel",1015
+"1767",44,"Echelon Insights","National",2023-05-25,-0.8,"REP","Online Panel",1035
+"1768",42,"Echelon Insights","National",2023-05-25,-0.8,"REP","Online Panel",1035
+"1769",41,"RMG Research","National",2023-05-24,-0.4,"REP","Online Panel",1000
+"1770",37,"RMG Research","National",2023-05-24,-0.4,"REP","Online Panel",1000
+"1771",25,"PPIC","California",2023-05-24,-0.4,"REP","Online Panel",1062
+"1772",38,"Roanoke College","Virginia",2023-05-23,-0.4,"REP","Live Phone/Online Panel",678
+"1773",48.8,"Emerson","Iowa",2023-05-22,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1064
+"1774",46,"Quinnipiac","National",2023-05-22,-0.5,"REP","Live Phone",1616
+"1775",44.7,"Cygnal","National",2023-05-18,-1.1,"REP","Online Panel/Text-to-Web",2527
+"1776",52,"Marquette Law School","National",2023-05-18,-1.1,"REP","Probability Panel",1010
+"1777",52,"Marquette Law School","National",2023-05-18,-1.1,"REP","Probability Panel",833
+"1778",41,"YouGov","National",2023-05-16,-1.1,"REP","Online Panel",1500
+"1779",44,"YouGov","National",2023-05-16,-1.1,"REP","Online Panel",1302
+"1780",36,"Ipsos","National",2023-05-15,-0.9,"REP","Probability Panel",4415
+"1781",22,"Ipsos","National",2023-05-15,-0.9,"IND","Probability Panel",4415
+"1782",33,"Ipsos","National",2023-05-14,-0.9,"REP","Probability Panel",1016
+"1783",43,"YouGov","National",2023-05-08,-1.1,"REP","Online Panel",1060
+"1784",49,"ABC/Washington Post","National",2023-05-03,-1.2,"REP","Live Phone",1006
+"1785",49,"ABC/Washington Post","National",2023-05-03,-1.2,"REP","Live Phone",900
+"1786",48,"GQR","National",2023-05-03,0.1,"REP","Online Panel",1569
+"1787",41,"YouGov","National",2023-05-02,-1.1,"REP","Online Panel",1500
+"1788",46,"YouGov","National",2023-05-02,-1.1,"REP","Online Panel",1357
+"1789",48,"Rasmussen","National",2023-05-02,-0.5,"REP","IVR/Online Panel",1050
+"1790",42,"Echelon Insights","National",2023-04-27,-0.8,"REP","Online Panel",1012
+"1791",40,"Noble Predictive Insights","Nevada",2023-04-26,-0.4,"REP","Online Panel",613
+"1792",41.1,"Emerson","National",2023-04-25,-1.1,"REP","IVR/Online Panel",1100
+"1793",36,"Ipsos","National",2023-04-24,-0.9,"REP","Probability Panel",1005
+"1794",22,"Ipsos","National",2023-04-24,-0.9,"IND","Probability Panel",1005
+"1795",42,"SSRS","Tennessee",2023-04-23,-0.2,"REP","Live Phone",502
+"1796",45.2,"Cygnal","National",2023-04-20,-1.1,"REP","Online Panel/Text-to-Web",2500
+"1797",41,"YouGov","National",2023-04-18,-1.1,"REP","Online Panel",1500
+"1798",44,"YouGov","National",2023-04-18,-1.1,"REP","Online Panel",1316
+"1799",42,"YouGov","National",2023-04-17,-1.1,"REP","Online Panel",1027
+"1800",36,"YouGov","National",2023-04-17,-1.1,"REP","Online Panel",1530
+"1801",39,"YouGov","National",2023-04-11,-1.1,"REP","Online Panel",1500
+"1802",44,"YouGov","National",2023-04-11,-1.1,"REP","Online Panel",1322
+"1803",35,"Franklin and Marshall College","Pennsylvania",2023-04-07,-0.1,"REP","Mail-to-Web/Mail-to-Phone",643
+"1804",37,"YouGov","National",2023-04-06,-1.1,"REP","Online Panel",1000
+"1805",46.4,"Cygnal","Iowa",2023-04-04,-1.1,"REP","IVR/Text-to-Web",600
+"1806",40,"YouGov","National",2023-04-04,-1.1,"REP","Online Panel",1500
+"1807",44,"YouGov","National",2023-04-04,-1.1,"REP","Online Panel",1319
+"1808",47,"Rasmussen","National",2023-04-03,-0.5,"REP","IVR/Online Panel",971
+"1809",43,"YouGov","National",2023-03-31,-1.1,"REP","Online Panel",729
+"1810",44,"Echelon Insights","National",2023-03-29,-0.8,"REP","Online Panel",1007
+"1811",32,"Ipsos","National",2023-03-29,-0.9,"REP","Probability Panel",1030
+"1812",43.4,"Cygnal","North Carolina",2023-03-27,-1.1,"REP","Live Phone/Text-to-Web",605
+"1813",44.5,"Cygnal","National",2023-03-27,-1.1,"REP","Online Panel/Text-to-Web",2550
+"1814",46,"Quinnipiac","National",2023-03-27,-0.5,"REP","Live Phone",1600
+"1815",38,"Marquette Law School","National",2023-03-22,-1.1,"REP","Probability Panel",1004
+"1816",38,"Marquette Law School","National",2023-03-22,-1.1,"REP","Probability Panel",863
+"1817",43,"YouGov","National",2023-03-20,-1.1,"REP","Online Panel",1059
+"1818",35,"Ipsos","National",2023-03-20,-0.9,"REP","Probability Panel",4410
+"1819",19,"Ipsos","National",2023-03-20,-0.9,"IND","Probability Panel",4410
+"1820",43.5,"Emerson","Florida",2023-03-15,-1.1,"REP","IVR/Online Panel/Text-to-Web/Email",1153
+"1821",50,"Rasmussen","Arizona",2023-03-14,-0.5,"REP","IVR/Online Panel",1001
+"1822",45,"Quinnipiac","National",2023-03-13,-0.5,"REP","Live Phone",1635
+"1823",50,"U. North Florida","Florida",2023-03-07,-0.6,"REP","Live Phone/Email",1452
+"1824",38,"Emerson","New Hampshire",2023-03-05,-1.1,"REP","IVR/Online Panel/Text-to-Web",1025
+"1825",45,"Cygnal","National",2023-02-27,-1.1,"REP","Online Panel/Text-to-Web",2424
+"1826",45,"YouGov","National",2023-02-27,-1.1,"REP","Online Panel",1014
+"1827",45,"YouGov","National",2023-02-27,-1.1,"REP","Online Panel",1014
+"1828",38,"YouGov","National",2023-02-27,-1.1,"REP","Online Panel",1000
+"1829",39,"Susquehanna","National",2023-02-26,-0.3,"REP","Live Phone",800
+"1830",41,"Susquehanna","Pennsylvania",2023-02-26,-0.3,"REP","Live Phone",800
+"1831",45.6,"Emerson","National",2023-02-25,-1.1,"REP","IVR/Online Panel",1060
+"1832",44,"Echelon Insights","National",2023-02-23,-0.8,"REP","Online Panel",1023
+"1833",45,"Roanoke College","Virginia",2023-02-21,-0.4,"REP","Live Phone/Online Panel",680
+"1834",46,"Roanoke College","Virginia",2023-02-21,-0.4,"REP","Live Phone/Online Panel",590
+"1835",27,"UC Berkeley","California",2023-02-20,-0.2,"REP","Email",7512
+"1836",29,"UC Berkeley","California",2023-02-20,-0.2,"REP","Email",5149
+"1837",46,"Quinnipiac","National",2023-02-14,-0.5,"REP","Live Phone",1429
+"1838",42,"Ipsos","National",2023-02-13,-0.9,"REP","Probability Panel",944
+"1839",39,"Ipsos","National",2023-02-13,-0.9,"REP","Probability Panel",914
+"1840",40,"Ipsos","National",2023-02-13,-0.9,"REP","Probability Panel",1102
+"1841",38,"Ipsos","National",2023-02-13,-0.9,"REP","Probability Panel",1103
+"1842",42,"Rasmussen","National",2023-02-12,-0.5,"REP","IVR/Online Panel",900
+"1843",45,"Rasmussen","National",2023-02-12,-0.5,"REP","IVR/Online Panel",900
+"1844",37,"OH Predictive Insights / MBQF","Arizona",2023-02-09,-0.4,"REP","Online Panel",1000
+"1845",41,"YouGov","National",2023-02-06,-1.1,"REP","Online Panel",1063
+"1846",42,"OH Predictive Insights / MBQF","Nevada",2023-02-06,-0.4,"REP","Online Panel",800
+"1847",48,"ABC/Washington Post","National",2023-02-01,-1.2,"REP","Live Phone",895
+"1848",42,"Echelon Insights","National",2023-01-25,-0.8,"REP","Online Panel",1024
+"1849",43.9,"Emerson","National",2023-01-21,-1.1,"REP","IVR/Online Panel",1015
+"1850",43.9,"Cygnal","National",2023-01-20,-1.1,"REP","Online Panel/Text-to-Web",2529
+"1851",39,"Marquette Law School","National",2023-01-20,-1.1,"REP","Probability Panel",1000
+"1852",40,"Marquette Law School","National",2023-01-20,-1.1,"REP","Probability Panel",790
+"1853",36,"YouGov","National",2023-01-17,-1.1,"REP","Online Panel",1500
+"1854",42,"YouGov","National",2023-01-17,-1.1,"REP","Online Panel",1314
+"1855",40,"YouGov","National",2023-01-16,-1.1,"REP","Online Panel",1028
+"1856",38.3,"Blueprint Polling","Arizona",2023-01-08,-0.3,"REP","IVR/Text",618
+"1857",41,"RMG Research","National",2023-01-05,-0.4,"REP","Online Panel",1000
+"1858",45,"Data for Progress","National",2022-12-29,-1.2,"REP","Online Panel",1189
+"1859",41,"YouGov","National",2022-12-19,-1.1,"REP","Online Panel",1041
+"1860",44,"Echelon Insights","National",2022-12-14,-0.8,"REP","Online Panel",1021
+"1861",42,"Echelon Insights","National",2022-12-14,-0.8,"REP","Online Panel",1021
+"1862",39.5,"Suffolk","National",2022-12-11,-1,"REP","Live Phone",1000
+"1863",35,"YouGov","National",2022-12-05,-1.1,"REP","Online Panel",1635
+"1864",42,"YouGov","National",2022-12-05,-1.1,"REP","Online Panel",1204
+"1865",43.1,"Emerson","Georgia",2022-11-30,-1.1,"REP","IVR/Online Panel/Text-to-Web",888
+"1866",43,"U. Massachusetts - Lowell","Georgia",2022-11-28,-1,"REP","Online Panel",1300
+"1867",34,"Marquette Law School","National",2022-11-22,-1.1,"REP","Probability Panel",1004
+"1868",34,"Marquette Law School","National",2022-11-22,-1.1,"REP","Probability Panel",840
+"1869",40.9,"Emerson","National",2022-11-19,-1.1,"REP","IVR/Online Panel",1380
+"1870",45,"Echelon Insights","National",2022-11-19,-0.8,"REP","Online Panel",1036
+"1871",45,"Echelon Insights","National",2022-11-19,-0.8,"REP","Online Panel",1036
